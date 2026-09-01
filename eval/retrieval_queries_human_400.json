@@ -1,0 +1,4052 @@
+[
+ {
+  "query": "牆頭帽",
+  "expected_word_ids": "[\"xmvnymb6ek8\"]",
+  "expected_texts": [
+   "牆頭帽"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['牆頭帽']"
+ },
+ {
+  "query": "蟛蜞醬",
+  "expected_word_ids": "[\"xzpzht5ujqp\"]",
+  "expected_texts": [
+   "蟛蜞醬"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['蟛蜞醬']"
+ },
+ {
+  "query": "門閂",
+  "expected_word_ids": "[\"x3p73qhcrng\", \"x4jd3hb257d\", \"xwxspb65zbb\"]",
+  "expected_texts": [
+   "閂",
+   "門肘",
+   "門閂"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['門閂']"
+ },
+ {
+  "query": "料到",
+  "expected_word_ids": "[\"xyzwh9uv5q4\"]",
+  "expected_texts": [
+   "料"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['料到']"
+ },
+ {
+  "query": "第一名",
+  "expected_word_ids": "[\"xhhxjtk76au\"]",
+  "expected_texts": [
+   "頭名"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['第一名']"
+ },
+ {
+  "query": "般配",
+  "expected_word_ids": "[\"xucq7ae3bex\"]",
+  "expected_texts": [
+   "配對"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['般配']"
+ },
+ {
+  "query": "圍嘴兒",
+  "expected_word_ids": "[\"xzxsd5pwtkw\", \"xkc4sv9t3sm\"]",
+  "expected_texts": [
+   "灠遮",
+   "灠胡袋"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['圍嘴兒']"
+ },
+ {
+  "query": "置備",
+  "expected_word_ids": "[\"xjnen2a4w4x\", \"x64vbhzez4q\", \"xxkpj57523c\"]",
+  "expected_texts": [
+   "辦",
+   "置",
+   "備辦"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['置備']"
+ },
+ {
+  "query": "純淨水",
+  "expected_word_ids": "[\"xkdk8d8gryr\"]",
+  "expected_texts": [
+   "清水"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['純淨水']"
+ },
+ {
+  "query": "掉頭髮",
+  "expected_word_ids": "[\"xnmswy84uyq\"]",
+  "expected_texts": [
+   "逿頭髮"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['掉頭髮']"
+ },
+ {
+  "query": "鉤草",
+  "expected_word_ids": "[\"xkdgumdbnuz\"]",
+  "expected_texts": [
+   "鉤草"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['鉤草']"
+ },
+ {
+  "query": "上天",
+  "expected_word_ids": "[\"xmv9afcr4pu\"]",
+  "expected_texts": [
+   "上天去"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['上天']"
+ },
+ {
+  "query": "押金",
+  "expected_word_ids": "[\"xcmw93rswts\"]",
+  "expected_texts": [
+   "押金"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['押金']"
+ },
+ {
+  "query": "說夢話",
+  "expected_word_ids": "[\"xhsx8a8rd2v\"]",
+  "expected_texts": [
+   "狂眠"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['說夢話']"
+ },
+ {
+  "query": "長舌婦",
+  "expected_word_ids": "[\"x66wdfm5z63\", \"xg6f7k86w9v\"]",
+  "expected_texts": [
+   "禁子媽",
+   "擠擠母"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['長舌婦']"
+ },
+ {
+  "query": "性格",
+  "expected_word_ids": "[\"x49c4vr3drs\"]",
+  "expected_texts": [
+   "心宿"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['性格']"
+ },
+ {
+  "query": "反復",
+  "expected_word_ids": "[\"xyrr6bxdtuu\", \"xdyzhf3g966\"]",
+  "expected_texts": [
+   "再三",
+   "再三再四"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['反復']"
+ },
+ {
+  "query": "閏月",
+  "expected_word_ids": "[\"xrcsk87bjhx\"]",
+  "expected_texts": [
+   "閏月"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['閏月']"
+ },
+ {
+  "query": "綠豆枕",
+  "expected_word_ids": "[\"xasjwjyzdxt\"]",
+  "expected_texts": [
+   "綠豆枕"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['綠豆枕']"
+ },
+ {
+  "query": "睡帽",
+  "expected_word_ids": "[\"xqx7ns7jjyu\"]",
+  "expected_texts": [
+   "睡帽"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['睡帽']"
+ },
+ {
+  "query": "舒爽",
+  "expected_word_ids": "[\"xwbav9esa9w\", \"x9zka55am4m\"]",
+  "expected_texts": [
+   "快",
+   "快活"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['舒爽']"
+ },
+ {
+  "query": "祖宗",
+  "expected_word_ids": "[\"x9s2s3z78wp\", \"xndg38ydxza\"]",
+  "expected_texts": [
+   "祖",
+   "宗祖"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['祖宗']"
+ },
+ {
+  "query": "宣判",
+  "expected_word_ids": "[\"xnv6gtbxaaf\"]",
+  "expected_texts": [
+   "宣判"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['宣判']"
+ },
+ {
+  "query": "女婿",
+  "expected_word_ids": "[\"xabfemrqh6w\", \"xxefwjfy99p\"]",
+  "expected_texts": [
+   "伲婿",
+   "姑爺"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['女婿']"
+ },
+ {
+  "query": "一斤多",
+  "expected_word_ids": "[\"x4pdcru584z\"]",
+  "expected_texts": [
+   "斤上"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['一斤多']"
+ },
+ {
+  "query": "抄寫",
+  "expected_word_ids": "[\"x8963hwthdq\"]",
+  "expected_texts": [
+   "抄"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['抄寫']"
+ },
+ {
+  "query": "充足",
+  "expected_word_ids": "[\"xge5g995mc8\"]",
+  "expected_texts": [
+   "飽"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['充足']"
+ },
+ {
+  "query": "暖水袋",
+  "expected_word_ids": "[\"xy7xh8bqc7w\"]",
+  "expected_texts": [
+   "湯袋"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['暖水袋']"
+ },
+ {
+  "query": "前陣子",
+  "expected_word_ids": "[\"x7rqpm75j7f\", \"xpq92guqavs\"]",
+  "expected_texts": [
+   "前蜀𣆯",
+   "前幫"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['前陣子']"
+ },
+ {
+  "query": "滴落",
+  "expected_word_ids": "[\"xcyvenywepa\", \"x84gjd6tfhc\"]",
+  "expected_texts": [
+   "滴",
+   "渧"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['滴落']"
+ },
+ {
+  "query": "魚露",
+  "expected_word_ids": "[\"xmy4ccjwbcu\"]",
+  "expected_texts": [
+   "蝦油"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['魚露']"
+ },
+ {
+  "query": "缺牙的人",
+  "expected_word_ids": "[\"xjbrz5qh4dw\", \"xgndg87vjbj\"]",
+  "expected_texts": [
+   "無牙齒伯",
+   "無牙齒姆"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['缺牙的人']"
+ },
+ {
+  "query": "墓碑",
+  "expected_word_ids": "[\"x2jfqk9q9q8\"]",
+  "expected_texts": [
+   "墓碑"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['墓碑']"
+ },
+ {
+  "query": "桂圓乾",
+  "expected_word_ids": "[\"xeeztv5b6dy\", \"x7ket6r93v7\"]",
+  "expected_texts": [
+   "龍眼乾",
+   "寶圓"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['桂圓乾']"
+ },
+ {
+  "query": "公狗",
+  "expected_word_ids": "[\"x74h57gudu6\", \"xhubak6ks36\"]",
+  "expected_texts": [
+   "犬雄",
+   "犬角"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['公狗']"
+ },
+ {
+  "query": "四不像",
+  "expected_word_ids": "[\"xwu48ers49r\"]",
+  "expected_texts": [
+   "三不主兩"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['四不像']"
+ },
+ {
+  "query": "南邊",
+  "expected_word_ids": "[\"x9pgmdyqphe\"]",
+  "expected_texts": [
+   "南勢"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['南邊']"
+ },
+ {
+  "query": "外孫女",
+  "expected_word_ids": "[\"xkj4qcyc8gq\"]",
+  "expected_texts": [
+   "外甥女"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['外孫女']"
+ },
+ {
+  "query": "耳邊",
+  "expected_word_ids": "[\"xdrx7ejckcg\"]",
+  "expected_texts": [
+   "耳尾"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['耳邊']"
+ },
+ {
+  "query": "鄉村婦人",
+  "expected_word_ids": "[\"xqja6ewc7q2\"]",
+  "expected_texts": [
+   "村驢婆"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['鄉村婦人']"
+ },
+ {
+  "query": "鬱結於心",
+  "expected_word_ids": "[\"xnjkm4pvwkx\"]",
+  "expected_texts": [
+   "氣鬱裏"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['鬱結於心']"
+ },
+ {
+  "query": "捨得",
+  "expected_word_ids": "[\"xd74zrmefmg\", \"xfh9724tk4m\"]",
+  "expected_texts": [
+   "捨",
+   "會捨"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['捨得']"
+ },
+ {
+  "query": "竹篾容器",
+  "expected_word_ids": "[\"xgbxaec3g2r\"]",
+  "expected_texts": [
+   "筊䇭"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['竹篾容器']"
+ },
+ {
+  "query": "驕傲",
+  "expected_word_ids": "[\"xzb9urysr4x\", \"xdhptbyr9yx\", \"x855uqez9p5\"]",
+  "expected_texts": [
+   "揭𡅏",
+   "傲",
+   "憢"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['驕傲']"
+ },
+ {
+  "query": "書封",
+  "expected_word_ids": "[\"xjutvdt3mk8\"]",
+  "expected_texts": [
+   "書皮"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['書封']"
+ },
+ {
+  "query": "死人臉",
+  "expected_word_ids": "[\"xs48dr5ny39\"]",
+  "expected_texts": [
+   "死儂面"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['死人臉']"
+ },
+ {
+  "query": "雙手張開",
+  "expected_word_ids": "[\"xvgr6kj484y\"]",
+  "expected_texts": [
+   "撐手"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['雙手張開']"
+ },
+ {
+  "query": "寶貝",
+  "expected_word_ids": "[\"xv3dsrt8s33\", \"x89aas572pw\"]",
+  "expected_texts": [
+   "依命",
+   "囝命"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['寶貝']"
+ },
+ {
+  "query": "一年左右",
+  "expected_word_ids": "[\"xguwknqrn4v\"]",
+  "expected_texts": [
+   "年把"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['一年左右']"
+ },
+ {
+  "query": "廊臺",
+  "expected_word_ids": "[\"xyzz764c637\", \"xcb47r5px8r\"]",
+  "expected_texts": [
+   "走馬樓",
+   "走馬"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['廊臺']"
+ },
+ {
+  "query": "腐朽",
+  "expected_word_ids": "[\"xg3m96ycdq4\", \"xbqjwmkepfu\"]",
+  "expected_texts": [
+   "黭腐",
+   "朽腐"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['腐朽']"
+ },
+ {
+  "query": "過家家兒",
+  "expected_word_ids": "[\"xj2shes3qz4\"]",
+  "expected_texts": [
+   "做辦辦"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['過家家兒']"
+ },
+ {
+  "query": "不喫飯",
+  "expected_word_ids": "[\"xrpdfx4hhep\"]",
+  "expected_texts": [
+   "餓頓"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['不喫飯']"
+ },
+ {
+  "query": "翠鳥",
+  "expected_word_ids": "[\"x2yfjpvgz3m\"]",
+  "expected_texts": [
+   "翠毛鳥"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['翠鳥']"
+ },
+ {
+  "query": "按月利息",
+  "expected_word_ids": "[\"x8ks6mqb5mx\"]",
+  "expected_texts": [
+   "頭月扣"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['按月利息']"
+ },
+ {
+  "query": "親叔伯",
+  "expected_word_ids": "[\"x75y9ke7k7b\"]",
+  "expected_texts": [
+   "親叔伯"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['親叔伯']"
+ },
+ {
+  "query": "二奶",
+  "expected_word_ids": "[\"xjpyehu2y7y\"]",
+  "expected_texts": [
+   "相好"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['二奶']"
+ },
+ {
+  "query": "醜八怪",
+  "expected_word_ids": "[\"x7jmb4vh68s\"]",
+  "expected_texts": [
+   "破相"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['醜八怪']"
+ },
+ {
+  "query": "硬塊",
+  "expected_word_ids": "[\"xbczcpdjger\"]",
+  "expected_texts": [
+   "紐"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['硬塊']"
+ },
+ {
+  "query": "企圖",
+  "expected_word_ids": "[\"x86xpjtedys\"]",
+  "expected_texts": [
+   "想死"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['企圖']"
+ },
+ {
+  "query": "漂洗",
+  "expected_word_ids": "[\"xjhbmbdv92w\", \"xycf595xmsk\"]",
+  "expected_texts": [
+   "漂",
+   "過水"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['漂洗']"
+ },
+ {
+  "query": "趼子",
+  "expected_word_ids": "[\"xtwwwdjvgs5\"]",
+  "expected_texts": [
+   "趼"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['趼子']"
+ },
+ {
+  "query": "彩虹",
+  "expected_word_ids": "[\"x2k2hqkjsaw\"]",
+  "expected_texts": [
+   "虹"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['彩虹']"
+ },
+ {
+  "query": "等一下",
+  "expected_word_ids": "[\"xzu5zy9fzcg\"]",
+  "expected_texts": [
+   "等囇"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['等一下']"
+ },
+ {
+  "query": "陽珓",
+  "expected_word_ids": "[\"xbcecc6vf3y\"]",
+  "expected_texts": [
+   "笑杯"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['陽珓']"
+ },
+ {
+  "query": "水蜜桃",
+  "expected_word_ids": "[\"xv29jcz3unu\"]",
+  "expected_texts": [
+   "水蜜桃"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['水蜜桃']"
+ },
+ {
+  "query": "迎娶",
+  "expected_word_ids": "[\"xdvfr8kbt77\", \"x4zq22438g2\"]",
+  "expected_texts": [
+   "討親做",
+   "迎親"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['迎娶']"
+ },
+ {
+  "query": "蛙泳",
+  "expected_word_ids": "[\"xeavutnxr7e\"]",
+  "expected_texts": [
+   "蝦蟆式"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['蛙泳']"
+ },
+ {
+  "query": "傍晚",
+  "expected_word_ids": "[\"xk68642bwgx\", \"xxpw8mredce\"]",
+  "expected_texts": [
+   "半晡",
+   "半晡暗"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['傍晚']"
+ },
+ {
+  "query": "潛匿",
+  "expected_word_ids": "[\"xtvvnt3gr5e\"]",
+  "expected_texts": [
+   "藏"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['潛匿']"
+ },
+ {
+  "query": "非常圓",
+  "expected_word_ids": "[\"x95yzx5tbxr\"]",
+  "expected_texts": [
+   "車車圓"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['非常圓']"
+ },
+ {
+  "query": "銀河系",
+  "expected_word_ids": "[\"x22m6te7asx\"]",
+  "expected_texts": [
+   "河"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['銀河系']"
+ },
+ {
+  "query": "雲遊四處",
+  "expected_word_ids": "[\"xhzpgfx6f2z\"]",
+  "expected_texts": [
+   "遊八府"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['雲遊四處']"
+ },
+ {
+  "query": "跑龍套",
+  "expected_word_ids": "[\"xagc5m2ew9z\"]",
+  "expected_texts": [
+   "行正倚歪"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['跑龍套']"
+ },
+ {
+  "query": "傳記",
+  "expected_word_ids": "[\"xht2kwg84ug\"]",
+  "expected_texts": [
+   "傳"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['傳記']"
+ },
+ {
+  "query": "蓬鬆",
+  "expected_word_ids": "[\"xhgb9qa7mq2\", \"x7kf4rdpys4\"]",
+  "expected_texts": [
+   "朦",
+   "拋*"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['蓬鬆']"
+ },
+ {
+  "query": "遺失",
+  "expected_word_ids": "[\"xsa557utj9g\", \"xnmtt36z6qr\"]",
+  "expected_texts": [
+   "逿去",
+   "逿無去"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['遺失']"
+ },
+ {
+  "query": "耳邊風",
+  "expected_word_ids": "[\"xdydhzw9pxn\"]",
+  "expected_texts": [
+   "耳朝西"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['耳邊風']"
+ },
+ {
+  "query": "裡間",
+  "expected_word_ids": "[\"xgn3yz38pvs\", \"xwugmw8c8ze\"]",
+  "expected_texts": [
+   "裏房",
+   "裏堵"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['裡間']"
+ },
+ {
+  "query": "風雨",
+  "expected_word_ids": "[\"xk9xw5cqct3\"]",
+  "expected_texts": [
+   "風時"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['風雨']"
+ },
+ {
+  "query": "孝子",
+  "expected_word_ids": "[\"x873ezndvm3\"]",
+  "expected_texts": [
+   "孝男"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['孝子']"
+ },
+ {
+  "query": "主賬",
+  "expected_word_ids": "[\"x4pysum225v\"]",
+  "expected_texts": [
+   "總簿"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['主賬']"
+ },
+ {
+  "query": "小路",
+  "expected_word_ids": "[\"x243qxhk8uv\", \"x77zfx87q5n\"]",
+  "expected_texts": [
+   "路囝",
+   "小路"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['小路']"
+ },
+ {
+  "query": "互看",
+  "expected_word_ids": "[\"xf23aud8368\"]",
+  "expected_texts": [
+   "對相"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['互看']"
+ },
+ {
+  "query": "他母親",
+  "expected_word_ids": "[\"xsvq7jqxavd\"]",
+  "expected_texts": [
+   "伊娘奶"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['他母親']"
+ },
+ {
+  "query": "疑心",
+  "expected_word_ids": "[\"x8pnvbvagw2\", \"x5kmxffm3xw\"]",
+  "expected_texts": [
+   "含懊",
+   "疑心"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['疑心']"
+ },
+ {
+  "query": "穿花",
+  "expected_word_ids": "[\"x3styba3ssx\"]",
+  "expected_texts": [
+   "穿花"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['穿花']"
+ },
+ {
+  "query": "花生米",
+  "expected_word_ids": "[\"x7rxg6fzq8u\"]",
+  "expected_texts": [
+   "花生仁"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['花生米']"
+ },
+ {
+  "query": "大信封",
+  "expected_word_ids": "[\"x5kqm2mbdwc\"]",
+  "expected_texts": [
+   "批袋"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['大信封']"
+ },
+ {
+  "query": "拾草具",
+  "expected_word_ids": "[\"x4tkcze4tf4\"]",
+  "expected_texts": [
+   "草箭"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['拾草具']"
+ },
+ {
+  "query": "手推車",
+  "expected_word_ids": "[\"xfr257mc4zs\"]",
+  "expected_texts": [
+   "手車"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['手推車']"
+ },
+ {
+  "query": "小姐",
+  "expected_word_ids": "[\"xm7cw96zy4b\"]",
+  "expected_texts": [
+   "小姐"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['小姐']"
+ },
+ {
+  "query": "依依不捨",
+  "expected_word_ids": "[\"xnejmjdpzyg\"]",
+  "expected_texts": [
+   "三行兩回頭"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['依依不捨']"
+ },
+ {
+  "query": "急性傳染病",
+  "expected_word_ids": "[\"xgkk8es9kuq\"]",
+  "expected_texts": [
+   "發瘟"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['急性傳染病']"
+ },
+ {
+  "query": "煎包",
+  "expected_word_ids": "[\"xphrsrcw83v\"]",
+  "expected_texts": [
+   "煎包"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['煎包']"
+ },
+ {
+  "query": "洪峰",
+  "expected_word_ids": "[\"xmvzn9767vn\"]",
+  "expected_texts": [
+   "水頭"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['洪峰']"
+ },
+ {
+  "query": "臨月兒",
+  "expected_word_ids": "[\"xydn8zswweb\"]",
+  "expected_texts": [
+   "順月"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['臨月兒']"
+ },
+ {
+  "query": "灰燼",
+  "expected_word_ids": "[\"xxhrwn35hfj\", \"x3dwrgqk8kt\", \"x7epfu7rkwn\"]",
+  "expected_texts": [
+   "灰",
+   "灰",
+   "灰灰"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['灰燼']"
+ },
+ {
+  "query": "眼窝深陷",
+  "expected_word_ids": "[\"xy3gpg4ekb4\"]",
+  "expected_texts": [
+   "瞘"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['眼窝深陷']"
+ },
+ {
+  "query": "紫砂壺",
+  "expected_word_ids": "[\"x2e4mgdn8mp\"]",
+  "expected_texts": [
+   "宜興罐"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['紫砂壺']"
+ },
+ {
+  "query": "年輕",
+  "expected_word_ids": "[\"xvx6gxt4j9m\", \"xzz4z9bftb4\"]",
+  "expected_texts": [
+   "戔",
+   "後生"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['年輕']"
+ },
+ {
+  "query": "行業",
+  "expected_word_ids": "[\"xu6rjz5r9mx\"]",
+  "expected_texts": [
+   "行"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['行業']"
+ },
+ {
+  "query": "氣味",
+  "expected_word_ids": "[\"x6we5krpte4\"]",
+  "expected_texts": [
+   "味"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['氣味']"
+ },
+ {
+  "query": "揮手擊",
+  "expected_word_ids": "[\"xf546crehqh\"]",
+  "expected_texts": [
+   "睔"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['揮手擊']"
+ },
+ {
+  "query": "院落上空",
+  "expected_word_ids": "[\"xcgzjbz44wd\"]",
+  "expected_texts": [
+   "天棚中"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['院落上空']"
+ },
+ {
+  "query": "平整地面",
+  "expected_word_ids": "[\"xpzxr3htgxn\"]",
+  "expected_texts": [
+   "平地"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['平整地面']"
+ },
+ {
+  "query": "上墳",
+  "expected_word_ids": "[\"xs2q87hsmf3\", \"x8xftqx3zzv\"]",
+  "expected_texts": [
+   "祭墓",
+   "硩紙"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['上墳']"
+ },
+ {
+  "query": "瓜瓤",
+  "expected_word_ids": "[\"x7ekwq9t5fh\"]",
+  "expected_texts": [
+   "瓜肉"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['瓜瓤']"
+ },
+ {
+  "query": "撲騰",
+  "expected_word_ids": "[\"xbq25677bus\"]",
+  "expected_texts": [
+   "爬僕"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['撲騰']"
+ },
+ {
+  "query": "複雜",
+  "expected_word_ids": "[\"xe323nmwpqd\", \"xmz97u7fvbv\"]",
+  "expected_texts": [
+   "麻嘈",
+   "摳氣"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['複雜']"
+ },
+ {
+  "query": "單人旁",
+  "expected_word_ids": "[\"x24c8n57yy7\"]",
+  "expected_texts": [
+   "徛儂人"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['單人旁']"
+ },
+ {
+  "query": "領導",
+  "expected_word_ids": "[\"xqu4j9jnfzs\", \"x9rdes24thb\"]",
+  "expected_texts": [
+   "頭頭",
+   "做頭其"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['領導']"
+ },
+ {
+  "query": "大力捶",
+  "expected_word_ids": "[\"xrj3ra5hymf\"]",
+  "expected_texts": [
+   "摏"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['大力捶']"
+ },
+ {
+  "query": "哪位",
+  "expected_word_ids": "[\"x2n3qbqetx3\"]",
+  "expected_texts": [
+   "俤儂"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['哪位']"
+ },
+ {
+  "query": "曝曬",
+  "expected_word_ids": "[\"xuqf5yeqtc9\"]",
+  "expected_texts": [
+   "𤏪"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['曝曬']"
+ },
+ {
+  "query": "上小學",
+  "expected_word_ids": "[\"xejvjkn5n26\"]",
+  "expected_texts": [
+   "去讀書"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['上小學']"
+ },
+ {
+  "query": "年糕",
+  "expected_word_ids": "[\"x76z6ymwwqr\"]",
+  "expected_texts": [
+   "糖粿"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['年糕']"
+ },
+ {
+  "query": "這一陣子",
+  "expected_word_ids": "[\"x49av8thh7n\"]",
+  "expected_texts": [
+   "這幫"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['這一陣子']"
+ },
+ {
+  "query": "乾燥",
+  "expected_word_ids": "[\"xcxtc6pu6yh\", \"xut86hsc2fb\", \"x4f55t7w4fj\", \"xfc7jdhyfq3\", \"xt7ynx2bj93\", \"xx8bpbz7qn5\", \"x2qhcfs3etu\"]",
+  "expected_texts": [
+   "焦",
+   "乾",
+   "燥",
+   "焦酥酥",
+   "乾焦",
+   "乾焦焦",
+   "乾燥"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['乾燥']"
+ },
+ {
+  "query": "污垢",
+  "expected_word_ids": "[\"x6hkrtfp4h5\", \"xb6nhtpf6df\", \"xdcdf38rcxk\", \"x5df2mjbmkq\"]",
+  "expected_texts": [
+   "浞",
+   "敆垢",
+   "敆浞",
+   "𡃆"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['污垢']"
+ },
+ {
+  "query": "糕餅店",
+  "expected_word_ids": "[\"xmnmv4kmjn9\"]",
+  "expected_texts": [
+   "嫩餅店"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['糕餅店']"
+ },
+ {
+  "query": "絲狀物",
+  "expected_word_ids": "[\"xyh34yf7kve\"]",
+  "expected_texts": [
+   "絲"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['絲狀物']"
+ },
+ {
+  "query": "故作詫異",
+  "expected_word_ids": "[\"xy56d72vunm\"]",
+  "expected_texts": [
+   "生驚"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['故作詫異']"
+ },
+ {
+  "query": "柴塊",
+  "expected_word_ids": "[\"xx93mtzqz7q\"]",
+  "expected_texts": [
+   "柴楞"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['柴塊']"
+ },
+ {
+  "query": "忌日",
+  "expected_word_ids": "[\"xafejjzpav5\"]",
+  "expected_texts": [
+   "忌辰"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['忌日']"
+ },
+ {
+  "query": "城市",
+  "expected_word_ids": "[\"xcr2jq899k7\"]",
+  "expected_texts": [
+   "城"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['城市']"
+ },
+ {
+  "query": "火藥",
+  "expected_word_ids": "[\"xs4my5dh2rn\"]",
+  "expected_texts": [
+   "硝"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['火藥']"
+ },
+ {
+  "query": "早年",
+  "expected_word_ids": "[\"xppx3wawu4s\"]",
+  "expected_texts": [
+   "早年"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['早年']"
+ },
+ {
+  "query": "禮拜二",
+  "expected_word_ids": "[\"x5kbnzwtc3f\"]",
+  "expected_texts": [
+   "拜二"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['禮拜二']"
+ },
+ {
+  "query": "山東大蔥",
+  "expected_word_ids": "[\"xqumk9h884b\"]",
+  "expected_texts": [
+   "山東蔥"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['山東大蔥']"
+ },
+ {
+  "query": "線麵",
+  "expected_word_ids": "[\"x856dqkgne6\"]",
+  "expected_texts": [
+   "索麵"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['線麵']"
+ },
+ {
+  "query": "拿到外頭",
+  "expected_word_ids": "[\"x6tq24ghqf9\"]",
+  "expected_texts": [
+   "扒外"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['拿到外頭']"
+ },
+ {
+  "query": "倩工",
+  "expected_word_ids": "[\"xst8xjzpcxz\"]",
+  "expected_texts": [
+   "倩工"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['倩工']"
+ },
+ {
+  "query": "沒信用",
+  "expected_word_ids": "[\"xujz93t34cf\"]",
+  "expected_texts": [
+   "下途"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['沒信用']"
+ },
+ {
+  "query": "湯丸",
+  "expected_word_ids": "[\"xbyezwccdw4\"]",
+  "expected_texts": [
+   "湯丸"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['湯丸']"
+ },
+ {
+  "query": "進出賬",
+  "expected_word_ids": "[\"xf28vf25zcf\"]",
+  "expected_texts": [
+   "來往門"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['進出賬']"
+ },
+ {
+  "query": "眨一下",
+  "expected_word_ids": "[\"xunmkbu85vq\"]",
+  "expected_texts": [
+   "𥍉囇"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['眨一下']"
+ },
+ {
+  "query": "知了",
+  "expected_word_ids": "[\"xxf3k845ms9\"]",
+  "expected_texts": [
+   "阿蛦"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['知了']"
+ },
+ {
+  "query": "七七八八",
+  "expected_word_ids": "[\"xy6n3avwfxy\"]",
+  "expected_texts": [
+   "七七八八"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['七七八八']"
+ },
+ {
+  "query": "教唆",
+  "expected_word_ids": "[\"x5xuy3tdnk8\", \"xtn6v27dcky\"]",
+  "expected_texts": [
+   "䛢",
+   "挑唆"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['教唆']"
+ },
+ {
+  "query": "全家福",
+  "expected_word_ids": "[\"xupmug87gns\"]",
+  "expected_texts": [
+   "全家福"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['全家福']"
+ },
+ {
+  "query": "螫針",
+  "expected_word_ids": "[\"x8ca92kd3rt\"]",
+  "expected_texts": [
+   "蜂針"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['螫針']"
+ },
+ {
+  "query": "梅亭",
+  "expected_word_ids": "[\"xukp55qtfxs\"]",
+  "expected_texts": [
+   "梅亭"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['梅亭']"
+ },
+ {
+  "query": "雜七雜八",
+  "expected_word_ids": "[\"xy6n3avwfxy\"]",
+  "expected_texts": [
+   "七七八八"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['雜七雜八']"
+ },
+ {
+  "query": "海鯽魚",
+  "expected_word_ids": "[\"xuuwdv7pn63\"]",
+  "expected_texts": [
+   "海鯽"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['海鯽魚']"
+ },
+ {
+  "query": "自專",
+  "expected_word_ids": "[\"xj6ye467sp8\"]",
+  "expected_texts": [
+   "自專"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['自專']"
+ },
+ {
+  "query": "安分人",
+  "expected_word_ids": "[\"xhfutsjnjbk\", \"xa3rdf3yumj\"]",
+  "expected_texts": [
+   "老實儂",
+   "忠厚儂"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['安分人']"
+ },
+ {
+  "query": "猜石子",
+  "expected_word_ids": "[\"xcdvkhcxhny\"]",
+  "expected_texts": [
+   "準子"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['猜石子']"
+ },
+ {
+  "query": "可惜",
+  "expected_word_ids": "[\"xv9yk3vpw32\"]",
+  "expected_texts": [
+   "可惜"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['可惜']"
+ },
+ {
+  "query": "今年",
+  "expected_word_ids": "[\"xjf7bat43nh\"]",
+  "expected_texts": [
+   "今年暝"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['今年']"
+ },
+ {
+  "query": "五香",
+  "expected_word_ids": "[\"xtf5bqjkj2p\"]",
+  "expected_texts": [
+   "五香"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['五香']"
+ },
+ {
+  "query": "幹粗活的",
+  "expected_word_ids": "[\"xvh7kwysmyu\", \"xhh4us26z6g\"]",
+  "expected_texts": [
+   "做粗",
+   "做粗其"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['幹粗活的']"
+ },
+ {
+  "query": "望節",
+  "expected_word_ids": "[\"xpwq7hw9cwk\"]",
+  "expected_texts": [
+   "送節"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['望節']"
+ },
+ {
+  "query": "餘甘",
+  "expected_word_ids": "[\"x6wjn2m66b3\"]",
+  "expected_texts": [
+   "榆甘"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['餘甘']"
+ },
+ {
+  "query": "吠叫",
+  "expected_word_ids": "[\"xjhgg2ud6eh\", \"xccuenjqrny\"]",
+  "expected_texts": [
+   "吠",
+   "吠"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['吠叫']"
+ },
+ {
+  "query": "江岸",
+  "expected_word_ids": "[\"x3ny7peh5mm\"]",
+  "expected_texts": [
+   "江墘頭"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['江岸']"
+ },
+ {
+  "query": "樂曲",
+  "expected_word_ids": "[\"xacvac944wm\"]",
+  "expected_texts": [
+   "樂"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['樂曲']"
+ },
+ {
+  "query": "不一致",
+  "expected_word_ids": "[\"x8y87fxdcfu\"]",
+  "expected_texts": [
+   "歧"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['不一致']"
+ },
+ {
+  "query": "妝飾",
+  "expected_word_ids": "[\"xk2jq7jtgn7\"]",
+  "expected_texts": [
+   "妝"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['妝飾']"
+ },
+ {
+  "query": "毛髮豎起",
+  "expected_word_ids": "[\"xsbqc3kp7z8\"]",
+  "expected_texts": [
+   "竓"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['毛髮豎起']"
+ },
+ {
+  "query": "不識時務",
+  "expected_word_ids": "[\"xamz48h6fv4\"]",
+  "expected_texts": [
+   "儥仈症"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['不識時務']"
+ },
+ {
+  "query": "造訪",
+  "expected_word_ids": "[\"xp7x2bteyea\"]",
+  "expected_texts": [
+   "造府"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['造訪']"
+ },
+ {
+  "query": "成色",
+  "expected_word_ids": "[\"xv9jfja7f6p\"]",
+  "expected_texts": [
+   "成色"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['成色']"
+ },
+ {
+  "query": "鬧騰",
+  "expected_word_ids": "[\"x7x6w4ssk2k\"]",
+  "expected_texts": [
+   "鬧"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['鬧騰']"
+ },
+ {
+  "query": "架起",
+  "expected_word_ids": "[\"xsa6s7az3b4\"]",
+  "expected_texts": [
+   "架"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['架起']"
+ },
+ {
+  "query": "不靠譜",
+  "expected_word_ids": "[\"xyeawrcw8kw\"]",
+  "expected_texts": [
+   "無譜"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['不靠譜']"
+ },
+ {
+  "query": "裏外縫線",
+  "expected_word_ids": "[\"xzun27p8kw9\"]",
+  "expected_texts": [
+   "鼎邊量"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['裏外縫線']"
+ },
+ {
+  "query": "哪有",
+  "expected_word_ids": "[\"xhftjyt64py\"]",
+  "expected_texts": [
+   "頭*管*"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['哪有']"
+ },
+ {
+  "query": "削筆刀",
+  "expected_word_ids": "[\"xjzvv3x49hz\"]",
+  "expected_texts": [
+   "鉛筆車"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['削筆刀']"
+ },
+ {
+  "query": "天干",
+  "expected_word_ids": "[\"xgc9qmyzbpd\"]",
+  "expected_texts": [
+   "天干"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['天干']"
+ },
+ {
+  "query": "扔掉了",
+  "expected_word_ids": "[\"xnexz7zp5jz\"]",
+  "expected_texts": [
+   "挌待*去"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['扔掉了']"
+ },
+ {
+  "query": "處世",
+  "expected_word_ids": "[\"x7gtnzvr9pz\"]",
+  "expected_texts": [
+   "做儂"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['處世']"
+ },
+ {
+  "query": "麪包",
+  "expected_word_ids": "[\"xph9psz668b\"]",
+  "expected_texts": [
+   "麵包"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['麪包']"
+ },
+ {
+  "query": "爛嘴角",
+  "expected_word_ids": "[\"xcxyykd5mm6\"]",
+  "expected_texts": [
+   "爛喙角"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['爛嘴角']"
+ },
+ {
+  "query": "帥哥",
+  "expected_word_ids": "[\"xv9dbpvf83x\"]",
+  "expected_texts": [
+   "美男子"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['帥哥']"
+ },
+ {
+  "query": "打槍",
+  "expected_word_ids": "[\"xsqmuza3eh5\"]",
+  "expected_texts": [
+   "拍銃"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['打槍']"
+ },
+ {
+  "query": "拼盡全力",
+  "expected_word_ids": "[\"xarf3kzwx8p\"]",
+  "expected_texts": [
+   "拼"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['拼盡全力']"
+ },
+ {
+  "query": "芝麻餅",
+  "expected_word_ids": "[\"xvwgph3ygy8\"]",
+  "expected_texts": [
+   "麻餅"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['芝麻餅']"
+ },
+ {
+  "query": "學校的搗蛋鬼",
+  "expected_word_ids": "[\"xmbpb3kkfgj\"]",
+  "expected_texts": [
+   "齋攪"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['學校的搗蛋鬼']"
+ },
+ {
+  "query": "水車抽水",
+  "expected_word_ids": "[\"xgfsp5ue35s\"]",
+  "expected_texts": [
+   "車池"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['水車抽水']"
+ },
+ {
+  "query": "絨毛",
+  "expected_word_ids": "[\"xjdmetm2b23\"]",
+  "expected_texts": [
+   "絨"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['絨毛']"
+ },
+ {
+  "query": "搭夥",
+  "expected_word_ids": "[\"x9hdd8343fr\"]",
+  "expected_texts": [
+   "搭骹"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['搭夥']"
+ },
+ {
+  "query": "天氣晴朗",
+  "expected_word_ids": "[\"xztse5ynf25\"]",
+  "expected_texts": [
+   "天晴"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['天氣晴朗']"
+ },
+ {
+  "query": "點子多",
+  "expected_word_ids": "[\"xtawfr8acrj\"]",
+  "expected_texts": [
+   "會出式"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['點子多']"
+ },
+ {
+  "query": "胡椒",
+  "expected_word_ids": "[\"xe9uas6x4ej\"]",
+  "expected_texts": [
+   "胡椒"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['胡椒']"
+ },
+ {
+  "query": "雌馬",
+  "expected_word_ids": "[\"xw4st9yrfrb\"]",
+  "expected_texts": [
+   "馬母"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['雌馬']"
+ },
+ {
+  "query": "動作",
+  "expected_word_ids": "[\"x7ftm448kab\"]",
+  "expected_texts": [
+   "骹手"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['動作']"
+ },
+ {
+  "query": "江水",
+  "expected_word_ids": "[\"xwkb34fprt4\", \"xky3pq36bd9\"]",
+  "expected_texts": [
+   "江",
+   "江"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['江水']"
+ },
+ {
+  "query": "寬延",
+  "expected_word_ids": "[\"xbvwjawkwx5\"]",
+  "expected_texts": [
+   "展限"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['寬延']"
+ },
+ {
+  "query": "潛水",
+  "expected_word_ids": "[\"xn57tx5jsys\"]",
+  "expected_texts": [
+   "汆"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['潛水']"
+ },
+ {
+  "query": "俊男",
+  "expected_word_ids": "[\"xv9dbpvf83x\"]",
+  "expected_texts": [
+   "美男子"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['俊男']"
+ },
+ {
+  "query": "喫晚飯",
+  "expected_word_ids": "[\"xs3wsjjvd4y\"]",
+  "expected_texts": [
+   "食暝"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['喫晚飯']"
+ },
+ {
+  "query": "夾生",
+  "expected_word_ids": "[\"xdwhb2grhmd\", \"x3b3vkqqs3n\"]",
+  "expected_texts": [
+   "生冷",
+   "半生熟"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['夾生']"
+ },
+ {
+  "query": "民間籌款會",
+  "expected_word_ids": "[\"xyajybny7as\"]",
+  "expected_texts": [
+   "義會"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['民間籌款會']"
+ },
+ {
+  "query": "小姑",
+  "expected_word_ids": "[\"xpwwuddv57b\"]",
+  "expected_texts": [
+   "小姑"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['小姑']"
+ },
+ {
+  "query": "打更",
+  "expected_word_ids": "[\"x42xmt4386u\"]",
+  "expected_texts": [
+   "拍更鼓"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['打更']"
+ },
+ {
+  "query": "喧嘩",
+  "expected_word_ids": "[\"x7x6w4ssk2k\"]",
+  "expected_texts": [
+   "鬧"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['喧嘩']"
+ },
+ {
+  "query": "青布",
+  "expected_word_ids": "[\"xzbjd9v63fc\"]",
+  "expected_texts": [
+   "青布"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['青布']"
+ },
+ {
+  "query": "譏諷",
+  "expected_word_ids": "[\"xzc5e7ht5k2\"]",
+  "expected_texts": [
+   "硩落"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['譏諷']"
+ },
+ {
+  "query": "母牛",
+  "expected_word_ids": "[\"xmbh45cgwf3\"]",
+  "expected_texts": [
+   "牛母"
+  ],
+  "group": "A",
+  "source": "supplement",
+  "derivation": "supplement_map['母牛']"
+ },
+ {
+  "query": "三下乡活动",
+  "expected_word_ids": "[\"xgad4ar8gdn\"]",
+  "expected_texts": [
+   "三落鄉"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "农村简陋的旱厕",
+  "expected_word_ids": "[\"xwcgpsmsgh7\"]",
+  "expected_texts": [
+   "糞坑馬"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "浑身湿透了",
+  "expected_word_ids": "[\"xvbx9cvjp77\"]",
+  "expected_texts": [
+   "漬漬濫"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "垫在身下睡觉的",
+  "expected_word_ids": "[\"xutb2x2429s\"]",
+  "expected_texts": [
+   "褥"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "出嫁前绞脸",
+  "expected_word_ids": "[\"xk893wsehk3\"]",
+  "expected_texts": [
+   "開面"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "耕田的大牲口",
+  "expected_word_ids": "[\"xbpgmcxefa6\"]",
+  "expected_texts": [
+   "牛"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "针叶的树",
+  "expected_word_ids": "[\"xtssec9sgwd\"]",
+  "expected_texts": [
+   "松"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "吹唢呐的乐器",
+  "expected_word_ids": "[\"xnvnxry2sfn\"]",
+  "expected_texts": [
+   "𫪦咑"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "太尴尬了",
+  "expected_word_ids": "[\"xnmmvvjyh6q\"]",
+  "expected_texts": [
+   "難堪"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "摇扇子纳凉",
+  "expected_word_ids": "[\"xf79a5zsj5b\"]",
+  "expected_texts": [
+   "蒲扇"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "挑三拣四的人",
+  "expected_word_ids": "[\"x9dgcsmt52n\"]",
+  "expected_texts": [
+   "復七復八"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "程度非常高",
+  "expected_word_ids": "[\"x9bk44798p8\"]",
+  "expected_texts": [
+   "盡去"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "得了传染病",
+  "expected_word_ids": "[\"xgkk8es9kuq\"]",
+  "expected_texts": [
+   "發瘟"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "花钱请人干活",
+  "expected_word_ids": "[\"xst8xjzpcxz\"]",
+  "expected_texts": [
+   "倩工"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "阴囊中间的线",
+  "expected_word_ids": "[\"xdy9rurqv5k\"]",
+  "expected_texts": [
+   "𡳞脬墘"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "拔田里的草",
+  "expected_word_ids": "[\"xmv4qcuc9v6\"]",
+  "expected_texts": [
+   "薅草"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "里面没东西",
+  "expected_word_ids": "[\"xj92akapdzy\"]",
+  "expected_texts": [
+   "空"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "装谷子的大桶",
+  "expected_word_ids": "[\"x6b6nxrk2f9\"]",
+  "expected_texts": [
+   "穀楻"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "大家商量一下",
+  "expected_word_ids": "[\"xjvyy6mypjd\"]",
+  "expected_texts": [
+   "議齊"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "小孩周岁抓周",
+  "expected_word_ids": "[\"xdyszttyvp6\"]",
+  "expected_texts": [
+   "摣晬"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "做事有头没尾",
+  "expected_word_ids": "[\"x9mrbn5ep85\"]",
+  "expected_texts": [
+   "虎頭蛇尾"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "擦掉写的字",
+  "expected_word_ids": "[\"xycx4uf7gwt\"]",
+  "expected_texts": [
+   "𢯽"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "福州鼓楼的老地名",
+  "expected_word_ids": "[\"xqk4uusph93\"]",
+  "expected_texts": [
+   "九彩"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "他愿意吗",
+  "expected_word_ids": "[\"xpsd84vp88h\"]",
+  "expected_texts": [
+   "肯"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "这人真傻",
+  "expected_word_ids": "[\"xw7ambyupcy\"]",
+  "expected_texts": [
+   "歞囝"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "气得不行",
+  "expected_word_ids": "[\"xhzw5xbju4g\"]",
+  "expected_texts": [
+   "起疾"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "水溢出来了",
+  "expected_word_ids": "[\"xj3wmsh53z4\"]",
+  "expected_texts": [
+   "泎"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "壳硬能吃的坚果",
+  "expected_word_ids": "[\"x9h2rq3tq9t\"]",
+  "expected_texts": [
+   "榛子"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "塞不进去",
+  "expected_word_ids": "[\"xxdy6m2ggss\"]",
+  "expected_texts": [
+   "塞儥裏"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "圆圈形状的饼",
+  "expected_word_ids": "[\"xckfwg68srj\"]",
+  "expected_texts": [
+   "環環餅"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "去别的地方",
+  "expected_word_ids": "[\"x693h8rnfg3\"]",
+  "expected_texts": [
+   "別鄉"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "背课文",
+  "expected_word_ids": "[\"xnk3wgq4nt2\"]",
+  "expected_texts": [
+   "背書"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "我自称的说法",
+  "expected_word_ids": "[\"xdvphp4rp2q\"]",
+  "expected_texts": [
+   "俺"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "老店铺的门板",
+  "expected_word_ids": "[\"x354hdfc874\"]",
+  "expected_texts": [
+   "錔板"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "好舒服啊",
+  "expected_word_ids": "[\"xgr32ebbwcv\"]",
+  "expected_texts": [
+   "野爽快"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "老人用的枕头",
+  "expected_word_ids": "[\"x6bv5k7hub2\"]",
+  "expected_texts": [
+   "壽枕"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "忍着熬过去",
+  "expected_word_ids": "[\"xmd464ku6n7\"]",
+  "expected_texts": [
+   "挨"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "发呆了",
+  "expected_word_ids": "[\"xzf5mh8ry5t\"]",
+  "expected_texts": [
+   "凝師"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "有钱人大款",
+  "expected_word_ids": "[\"xsfff9wsxwg\"]",
+  "expected_texts": [
+   "大骹"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "就刚才",
+  "expected_word_ids": "[\"xcn2675sscr\"]",
+  "expected_texts": [
+   "頭輪"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "天要下雨了",
+  "expected_word_ids": "[\"xjg9yqf3mg5\"]",
+  "expected_texts": [
+   "烏雲黑暗"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "肌肉酸痛",
+  "expected_word_ids": "[\"xwrp7eytwpb\"]",
+  "expected_texts": [
+   "酸𠴂"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "汗毛竖起来了",
+  "expected_word_ids": "[\"xsbqc3kp7z8\"]",
+  "expected_texts": [
+   "竓"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "装米的大柜子",
+  "expected_word_ids": "[\"x3tqsrnumnk\"]",
+  "expected_texts": [
+   "𣛮"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "剩下来的东西",
+  "expected_word_ids": "[\"xsum3dqck6k\"]",
+  "expected_texts": [
+   "長底"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "好办法",
+  "expected_word_ids": "[\"xgax854296g\"]",
+  "expected_texts": [
+   "妙計"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "那个人",
+  "expected_word_ids": "[\"xpbhvrfc58h\"]",
+  "expected_texts": [
+   "伊儂"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "没意义的开头音",
+  "expected_word_ids": "[\"x4vxbcfnyut\"]",
+  "expected_texts": [
+   "咿*"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "吃早饭",
+  "expected_word_ids": "[\"xf7s4wgg3a9\"]",
+  "expected_texts": [
+   "食早"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "一年最热的时候",
+  "expected_word_ids": "[\"xfq3j48emt2\"]",
+  "expected_texts": [
+   "大暑"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "用拳头捶打",
+  "expected_word_ids": "[\"xas4b7adqs8\"]",
+  "expected_texts": [
+   "捶"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "温温的不冷不热",
+  "expected_word_ids": "[\"xut9aqpetpz\"]",
+  "expected_texts": [
+   "溫"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "随便拿别人东西",
+  "expected_word_ids": "[\"xgk7s8rrk4z\"]",
+  "expected_texts": [
+   "攝"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "小孩到处爬",
+  "expected_word_ids": "[\"x74fxnnfej8\"]",
+  "expected_texts": [
+   "爬屐"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "掷杯两面都朝上",
+  "expected_word_ids": "[\"xbcecc6vf3y\"]",
+  "expected_texts": [
+   "笑杯"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "豆子发酵做的酱",
+  "expected_word_ids": "[\"xtaud5k8j5w\"]",
+  "expected_texts": [
+   "醬"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "签名签字",
+  "expected_word_ids": "[\"x5nygzjmks9\"]",
+  "expected_texts": [
+   "簽"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "一直唠叨个没完",
+  "expected_word_ids": "[\"xrwpu6dqnk4\"]",
+  "expected_texts": [
+   "多多講多多聽"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "裁衣服用的斜布条",
+  "expected_word_ids": "[\"x9rjzftw4ds\"]",
+  "expected_texts": [
+   "斜條"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "福建南部那边",
+  "expected_word_ids": "[\"x5a58twbtzy\"]",
+  "expected_texts": [
+   "下南"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "挡风的帽子",
+  "expected_word_ids": "[\"xauaw47nwap\"]",
+  "expected_texts": [
+   "風帽"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "最起码",
+  "expected_word_ids": "[\"xnxapd79z7y\"]",
+  "expected_texts": [
+   "最少"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "毛很长的小狗",
+  "expected_word_ids": "[\"xevz6pf87sv\"]",
+  "expected_texts": [
+   "獅犬"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "地主老婆",
+  "expected_word_ids": "[\"xdve3x38ww4\"]",
+  "expected_texts": [
+   "地主媽"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "年轻的男司仪",
+  "expected_word_ids": "[\"xmvx9ayyf58\"]",
+  "expected_texts": [
+   "禮生依俤"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "终于熬出头了",
+  "expected_word_ids": "[\"x6p9y97pwct\"]",
+  "expected_texts": [
+   "出身"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "田里养的鸭子",
+  "expected_word_ids": "[\"xz2fvdnz7f2\"]",
+  "expected_texts": [
+   "菜鴨"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "日用百货商品",
+  "expected_word_ids": "[\"x5ph639fqsn\"]",
+  "expected_texts": [
+   "百貨"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "福州的大商场",
+  "expected_word_ids": "[\"xpqayt2j55p\"]",
+  "expected_texts": [
+   "正大廣場"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "抬神像游街",
+  "expected_word_ids": "[\"xe8t697cwvm\"]",
+  "expected_texts": [
+   "繞境"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "胡说八道",
+  "expected_word_ids": "[\"x4jgep2svkm\"]",
+  "expected_texts": [
+   "胡啦啦"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "敲锣打鼓",
+  "expected_word_ids": "[\"xusjbgfec7n\"]",
+  "expected_texts": [
+   "拍鼓板"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "年纪一样大",
+  "expected_word_ids": "[\"x9h2azbbsyx\"]",
+  "expected_texts": [
+   "同歲"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "嗓子哑了",
+  "expected_word_ids": "[\"xm8zvhyf65r\"]",
+  "expected_texts": [
+   "嗄"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "学生用的尺子",
+  "expected_word_ids": "[\"x76wpu38m4e\"]",
+  "expected_texts": [
+   "筆尺"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "反反复复好多次",
+  "expected_word_ids": "[\"xdyzhf3g966\"]",
+  "expected_texts": [
+   "再三再四"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "圆圈",
+  "expected_word_ids": "[\"xa7j7tuu7x6\"]",
+  "expected_texts": [
+   "圓環"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "亲兄弟",
+  "expected_word_ids": "[\"xpzsvbcz4sv\"]",
+  "expected_texts": [
+   "胞兄俤"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "小一号的方桌",
+  "expected_word_ids": "[\"x295dcejg3b\"]",
+  "expected_texts": [
+   "六仙"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "不像个样子",
+  "expected_word_ids": "[\"xq69qwkt9wd\"]",
+  "expected_texts": [
+   "麻九"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "套头毛衣",
+  "expected_word_ids": "[\"x355fauh99p\"]",
+  "expected_texts": [
+   "羊毛𧜛"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "新鲜嫩姜",
+  "expected_word_ids": "[\"x6tre3dkjxy\"]",
+  "expected_texts": [
+   "生薑"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "夹菜的筷子",
+  "expected_word_ids": "[\"x4mzp76at3f\"]",
+  "expected_texts": [
+   "箸"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "味苦的竹笋",
+  "expected_word_ids": "[\"xfjnpvcert5\"]",
+  "expected_texts": [
+   "苦筍"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "像桃又像李的水果",
+  "expected_word_ids": "[\"xbvtyzxav5f\"]",
+  "expected_texts": [
+   "柰"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "榨油后的渣饼",
+  "expected_word_ids": "[\"x39edj5mb2s\"]",
+  "expected_texts": [
+   "𣗺"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "把船转个方向",
+  "expected_word_ids": "[\"x4ywdfq485a\"]",
+  "expected_texts": [
+   "挨舵"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "婴儿咬的奶嘴",
+  "expected_word_ids": "[\"xqh226nw2tp\"]",
+  "expected_texts": [
+   "欶欶"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "用耳朵听",
+  "expected_word_ids": "[\"xnyhz3kjece\"]",
+  "expected_texts": [
+   "聽"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "刻石头的工具",
+  "expected_word_ids": "[\"xkmc2g7ht5p\"]",
+  "expected_texts": [
+   "鏨刀"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "拿筷子的那只手",
+  "expected_word_ids": "[\"xbgzdajatcp\"]",
+  "expected_texts": [
+   "掏*箸手"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "当官的权力",
+  "expected_word_ids": "[\"xrnrzsrzjvx\"]",
+  "expected_texts": [
+   "官勢"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "翻过来底朝天",
+  "expected_word_ids": "[\"xcrygwqr2zz\"]",
+  "expected_texts": [
+   "反々蚩*"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "扁平的石头",
+  "expected_word_ids": "[\"xxtwth6bykt\"]",
+  "expected_texts": [
+   "石板"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "突出来的虎牙",
+  "expected_word_ids": "[\"xzvq674795v\"]",
+  "expected_texts": [
+   "老虎牙齒"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "发出响声",
+  "expected_word_ids": "[\"xfuydhahpdy\"]",
+  "expected_texts": [
+   "響"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "福州的一条路",
+  "expected_word_ids": "[\"xqb6m259cv6\"]",
+  "expected_texts": [
+   "道山路"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "把供品分给大家",
+  "expected_word_ids": "[\"xnatw6t26pt\"]",
+  "expected_texts": [
+   "分䭣"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "装东西的袋子",
+  "expected_word_ids": "[\"xtgfnvpx3g5\"]",
+  "expected_texts": [
+   "袋袋"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "长虫子了",
+  "expected_word_ids": "[\"xf9awnwf5dv\"]",
+  "expected_texts": [
+   "生蟲"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "老婆的弟弟",
+  "expected_word_ids": "[\"xv43fabpn8s\"]",
+  "expected_texts": [
+   "細舅"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "舀水的东西",
+  "expected_word_ids": "[\"xhb6a7wypca\"]",
+  "expected_texts": [
+   "水管"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "姨妈的老公",
+  "expected_word_ids": "[\"xevbw3vpq6x\"]",
+  "expected_texts": [
+   "姨夫"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "头像犁的鲨鱼",
+  "expected_word_ids": "[\"x2rwb8mnqty\"]",
+  "expected_texts": [
+   "犁頭鯊"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "一年的前六个月",
+  "expected_word_ids": "[\"xk5ndxku5mb\"]",
+  "expected_texts": [
+   "上半年"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "光许愿不还愿",
+  "expected_word_ids": "[\"x547nm4h2qj\"]",
+  "expected_texts": [
+   "有許無謝"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "没有馅的圆馒头",
+  "expected_word_ids": "[\"xpkg7fgu8cd\"]",
+  "expected_texts": [
+   "饃饃"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "背上有斑点的鱼",
+  "expected_word_ids": "[\"xe8kwfej2gv\"]",
+  "expected_texts": [
+   "鱖魚"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "姐妹的孩子",
+  "expected_word_ids": "[\"xtpw35wg3j5\"]",
+  "expected_texts": [
+   "外甥"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "什么都不怕的人",
+  "expected_word_ids": "[\"xr4h9vdzrux\"]",
+  "expected_texts": [
+   "殘"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "福州的老街老巷",
+  "expected_word_ids": "[\"xyyrhzjcn58\"]",
+  "expected_texts": [
+   "三坊七巷"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "停船靠岸",
+  "expected_word_ids": "[\"xsse7q36t7e\"]",
+  "expected_texts": [
+   "泊"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "大概可能",
+  "expected_word_ids": "[\"xn3u33uyye8\"]",
+  "expected_texts": [
+   "應該當"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "别这样做",
+  "expected_word_ids": "[\"xu6tjwpnd4j\"]",
+  "expected_texts": [
+   "莫掏*"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "去庙里拜拜",
+  "expected_word_ids": "[\"xanrfyaky75\"]",
+  "expected_texts": [
+   "拜佛"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "水管子",
+  "expected_word_ids": "[\"xyqhp92aevv\"]",
+  "expected_texts": [
+   "水管"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "认罪交代了",
+  "expected_word_ids": "[\"x6ks22bd24m\"]",
+  "expected_texts": [
+   "招"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "包粽子",
+  "expected_word_ids": "[\"xu8nuh3pf7p\"]",
+  "expected_texts": [
+   "裹粽"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "收锡箔灰的人",
+  "expected_word_ids": "[\"xn2zhvnez38\"]",
+  "expected_texts": [
+   "買元寶灰其"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "心里紧张烦躁",
+  "expected_word_ids": "[\"xjvwnhpuswj\"]",
+  "expected_texts": [
+   "惶䞦"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "去嫖",
+  "expected_word_ids": "[\"xha2n5dtpeh\"]",
+  "expected_texts": [
+   "食貨"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "萨其马那种点心",
+  "expected_word_ids": "[\"xqj24qss5xv\"]",
+  "expected_texts": [
+   "起馬酥"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "发面用的老面",
+  "expected_word_ids": "[\"xg49mhdhe7h\"]",
+  "expected_texts": [
+   "肥母"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "路面坑坑洼洼",
+  "expected_word_ids": "[\"xfhtqnhukgk\"]",
+  "expected_texts": [
+   "崎崎翹翹"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "薄饼卷菜吃",
+  "expected_word_ids": "[\"xmge48bw92q\"]",
+  "expected_texts": [
+   "春餅"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "用来煮汤的蔬菜",
+  "expected_word_ids": "[\"x2ecwhcnxej\"]",
+  "expected_texts": [
+   "葵菜"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "扫地的工具",
+  "expected_word_ids": "[\"xc4qx9h36xj\"]",
+  "expected_texts": [
+   "掃帚"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "腿抽筋了",
+  "expected_word_ids": "[\"xzstpdm4utr\"]",
+  "expected_texts": [
+   "抽筋"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "小孩装作很懂的样子",
+  "expected_word_ids": "[\"xud9hhp34xx\"]",
+  "expected_texts": [
+   "假師"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "什么都不懂",
+  "expected_word_ids": "[\"x9z4hdxvsjq\"]",
+  "expected_texts": [
+   "會仈寅卯"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "过年吃的甜年糕",
+  "expected_word_ids": "[\"x76z6ymwwqr\"]",
+  "expected_texts": [
+   "糖粿"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "福州人怎么称呼自己的话",
+  "expected_word_ids": "[\"xvptb75zq4u\"]",
+  "expected_texts": [
+   "平話"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "仰面滑下去",
+  "expected_word_ids": "[\"xfr7z9phs55\"]",
+  "expected_texts": [
+   "嚧"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "白色的粗布手巾",
+  "expected_word_ids": "[\"xppudsxsxjp\"]",
+  "expected_texts": [
+   "羊肚巾"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "搞不清分不清",
+  "expected_word_ids": "[\"xphebbr96np\"]",
+  "expected_texts": [
+   "迷"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "脚掌心",
+  "expected_word_ids": "[\"xcxscn7h3ry\"]",
+  "expected_texts": [
+   "骹腰"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "不爱说话",
+  "expected_word_ids": "[\"xfv654mq6xs\"]",
+  "expected_texts": [
+   "靜訥"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "抢东西",
+  "expected_word_ids": "[\"xrnu6kpnddw\"]",
+  "expected_texts": [
+   "拍劫"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "留有余地",
+  "expected_word_ids": "[\"x2k7t22c38e\"]",
+  "expected_texts": [
+   "後手"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "养蜜蜂的箱子",
+  "expected_word_ids": "[\"x5nqv6razc8\"]",
+  "expected_texts": [
+   "蜂櫥"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "红曲酿的酒",
+  "expected_word_ids": "[\"xzsz9sangd8\"]",
+  "expected_texts": [
+   "老酒"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "盘成圈的线香",
+  "expected_word_ids": "[\"xn9vtsx3keh\"]",
+  "expected_texts": [
+   "香塔"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "切东西的刀",
+  "expected_word_ids": "[\"x4m47rcdumj\"]",
+  "expected_texts": [
+   "刀"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "小孩子玩耍",
+  "expected_word_ids": "[\"xkbn2fuvk9f\"]",
+  "expected_texts": [
+   "嬉遊"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "嘴里没味吃不下",
+  "expected_word_ids": "[\"x5pv4hvzwxk\"]",
+  "expected_texts": [
+   "褪䭕"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "绑架要赎金",
+  "expected_word_ids": "[\"xduvtc9mdt6\"]",
+  "expected_texts": [
+   "綁票"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "死掉的人",
+  "expected_word_ids": "[\"xz8ru7farwn\"]",
+  "expected_texts": [
+   "死儂"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "打牌差一个人",
+  "expected_word_ids": "[\"xpmqt32wd99\"]",
+  "expected_texts": [
+   "湊骹"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "和尚敲的木鱼",
+  "expected_word_ids": "[\"xaaswshm9jg\"]",
+  "expected_texts": [
+   "搕搕"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "系鞋子的绳子",
+  "expected_word_ids": "[\"xjq2hc6pycr\"]",
+  "expected_texts": [
+   "鞋帶"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "食物放阴凉处去火",
+  "expected_word_ids": "[\"xeatgjswtgz\"]",
+  "expected_texts": [
+   "藏蔭"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "两手撑地头朝下",
+  "expected_word_ids": "[\"x2j8tzex43k\"]",
+  "expected_texts": [
+   "倒立"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "演小姑娘的戏曲角色",
+  "expected_word_ids": "[\"xq4y5gxexpn\"]",
+  "expected_texts": [
+   "囝旦"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "乱说一通",
+  "expected_word_ids": "[\"xqf2a4vwu9q\"]",
+  "expected_texts": [
+   "七講八聽"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "腌过的小咸鱼",
+  "expected_word_ids": "[\"x9x5an6ycat\"]",
+  "expected_texts": [
+   "𩸞"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "鱼虾产卵",
+  "expected_word_ids": "[\"x95eavbkdgb\"]",
+  "expected_texts": [
+   "放子"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "成天不着家的人",
+  "expected_word_ids": "[\"xx44pbazxgv\"]",
+  "expected_texts": [
+   "野儂"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "不贵便宜",
+  "expected_word_ids": "[\"xuk6c9hbseh\"]",
+  "expected_texts": [
+   "儥貴"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "小孩子好可爱",
+  "expected_word_ids": "[\"x4bsfhsnnnn\"]",
+  "expected_texts": [
+   "䨲*"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "小偷事先踩点",
+  "expected_word_ids": "[\"xa9e2mar45c\"]",
+  "expected_texts": [
+   "看水"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "宴会上入席就坐",
+  "expected_word_ids": "[\"x4y6kf3wcbd\"]",
+  "expected_texts": [
+   "坐桌"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "几毛钱的硬币",
+  "expected_word_ids": "[\"x8dfhj3mv9x\"]",
+  "expected_texts": [
+   "鏰囝"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "朝南的方向",
+  "expected_word_ids": "[\"xw4wsthjasa\"]",
+  "expected_texts": [
+   "南"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "马上立刻",
+  "expected_word_ids": "[\"xwgz95kudzs\"]",
+  "expected_texts": [
+   "此刻"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "谦称自己的哥哥",
+  "expected_word_ids": "[\"x5bgxhz5cam\"]",
+  "expected_texts": [
+   "家兄"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "一种炒菜方法",
+  "expected_word_ids": "[\"x89mbe2s5kb\"]",
+  "expected_texts": [
+   "燴"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "拜火神防火灾",
+  "expected_word_ids": "[\"x5pj2pc9674\"]",
+  "expected_texts": [
+   "火醮"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "行为举止不好",
+  "expected_word_ids": "[\"xkqkpg2chbu\"]",
+  "expected_texts": [
+   "形狀"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "朝着北边",
+  "expected_word_ids": "[\"xs3gcexqmjt\"]",
+  "expected_texts": [
+   "朝北"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "炉子下面通风的口",
+  "expected_word_ids": "[\"xjf5cbnnwvf\"]",
+  "expected_texts": [
+   "爐囝喙"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "谦称自己的儿子",
+  "expected_word_ids": "[\"xy45sdpcmfd\"]",
+  "expected_texts": [
+   "小犬"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "抽屉的拉手",
+  "expected_word_ids": "[\"x9x82m8s95x\"]",
+  "expected_texts": [
+   "屜拔"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "嫉妒心",
+  "expected_word_ids": "[\"x86t59njsyy\"]",
+  "expected_texts": [
+   "惻心"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "太幼稚了",
+  "expected_word_ids": "[\"xrs939tmwb6\"]",
+  "expected_texts": [
+   "細雅"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "馄饨",
+  "expected_word_ids": "[\"x8eyf55psqp\"]",
+  "expected_texts": [
+   "扁肉"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "被人暗算了",
+  "expected_word_ids": "[\"xgcm3hsynzn\"]",
+  "expected_texts": [
+   "症乞儂做去"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "提手旁",
+  "expected_word_ids": "[\"x99akccn4c9\"]",
+  "expected_texts": [
+   "挑才手"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "整地用的耙子",
+  "expected_word_ids": "[\"x5fy4u7s8ga\"]",
+  "expected_texts": [
+   "耙耙"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "知青下乡",
+  "expected_word_ids": "[\"xmxzbaypnks\"]",
+  "expected_texts": [
+   "上山下鄉"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "同姓同宗的人",
+  "expected_word_ids": "[\"xt7qnqy68hy\"]",
+  "expected_texts": [
+   "本家"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "用米汤浆衣服",
+  "expected_word_ids": "[\"x5ayxkypkwj\"]",
+  "expected_texts": [
+   "漿衣裳"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "一种六子棋",
+  "expected_word_ids": "[\"x6n8emqn267\"]",
+  "expected_texts": [
+   "六子𠟶"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "干活的劲头",
+  "expected_word_ids": "[\"xb2pdq29k95\"]",
+  "expected_texts": [
+   "幹勁"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "硬纸片卡片",
+  "expected_word_ids": "[\"xuv3m5swnzf\"]",
+  "expected_texts": [
+   "卡"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "搞鸡奸的人",
+  "expected_word_ids": "[\"xbcyx548x4e\"]",
+  "expected_texts": [
+   "契哥"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "守在那里看着",
+  "expected_word_ids": "[\"xbguk4rmwxq\"]",
+  "expected_texts": [
+   "宴"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "三伏天中间那伏",
+  "expected_word_ids": "[\"xyc45xhdfsw\"]",
+  "expected_texts": [
+   "中伏"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "梅子做的蜜饯",
+  "expected_word_ids": "[\"x8sjenjyz4e\"]",
+  "expected_texts": [
+   "梅舌"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "做事的规矩",
+  "expected_word_ids": "[\"xj2ek7ney3b\"]",
+  "expected_texts": [
+   "譜路"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "没种过的荒田",
+  "expected_word_ids": "[\"xz3b9cawrwu\"]",
+  "expected_texts": [
+   "荒田"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "山的后面",
+  "expected_word_ids": "[\"xbtf4nhpvy3\"]",
+  "expected_texts": [
+   "山後"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "完蛋了糟了",
+  "expected_word_ids": "[\"xt5wvgwdzse\"]",
+  "expected_texts": [
+   "做契弟"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "瘦得不成样子",
+  "expected_word_ids": "[\"xswgppm96gb\"]",
+  "expected_texts": [
+   "沰形"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "搭把手帮个忙",
+  "expected_word_ids": "[\"x9thkfkz25c\"]",
+  "expected_texts": [
+   "幫搭"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "美国人",
+  "expected_word_ids": "[\"x7aef8kgws9\"]",
+  "expected_texts": [
+   "美國囝"
+  ],
+  "group": "B",
+  "source": "expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "动物的脚爪",
+  "expected_word_ids": "[\"x9bnhz8fmva\"]",
+  "expected_texts": [
+   "爪"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "春天犯的花痴病",
+  "expected_word_ids": "[\"xgut5wh5ekx\"]",
+  "expected_texts": [
+   "桃花癲"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "大声喊叫",
+  "expected_word_ids": "[\"xwvtph679kf\"]",
+  "expected_texts": [
+   "叫"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "骂人不是东西",
+  "expected_word_ids": "[\"xxhbeukzyjb\"]",
+  "expected_texts": [
+   "伓是坯"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ },
+ {
+  "query": "卖肉的店铺",
+  "expected_word_ids": "[\"xae6a7j3dwj\"]",
+  "expected_texts": [
+   "肉店"
+  ],
+  "group": "B",
+  "source": "feng_expl",
+  "derivation": "手写口语化"
+ }
+]

@@ -1,0 +1,101 @@
+{
+  "inventories": {
+    "pinyin": 423,
+    "yngping_segments": 967,
+    "overlap": 175
+  },
+  "per_model": {
+    "Qwen3-1.7B": {
+      "n_predicted_syllables": 967,
+      "n_error_syllables": 960,
+      "segment_classes_pct": {
+        "pinyin_only": 36.35,
+        "both": 52.6,
+        "yngping_only": 5.83,
+        "neither": 5.21
+      },
+      "segment_classes_n": {
+        "pinyin_only": 349,
+        "both": 505,
+        "yngping_only": 56,
+        "neither": 50
+      },
+      "pinyin_compatible_pct": 88.96,
+      "pinyin_only_pct": 36.35,
+      "tone_classes_pct": {
+        "fuzhou_legal": 86.04,
+        "mandarin_1_4": 3.44,
+        "other": 10.52
+      }
+    },
+    "Qwen3-8B": {
+      "n_predicted_syllables": 1207,
+      "n_error_syllables": 1195,
+      "segment_classes_pct": {
+        "pinyin_only": 39.83,
+        "both": 39.5,
+        "yngping_only": 9.04,
+        "neither": 11.63
+      },
+      "segment_classes_n": {
+        "pinyin_only": 476,
+        "both": 472,
+        "yngping_only": 108,
+        "neither": 139
+      },
+      "pinyin_compatible_pct": 79.33,
+      "pinyin_only_pct": 39.83,
+      "tone_classes_pct": {
+        "fuzhou_legal": 94.64,
+        "mandarin_1_4": 1.17,
+        "other": 4.18
+      }
+    },
+    "Qwen3-30B-A3B": {
+      "n_predicted_syllables": 1188,
+      "n_error_syllables": 1178,
+      "segment_classes_pct": {
+        "pinyin_only": 33.02,
+        "both": 41.34,
+        "yngping_only": 12.73,
+        "neither": 12.9
+      },
+      "segment_classes_n": {
+        "pinyin_only": 389,
+        "both": 487,
+        "yngping_only": 150,
+        "neither": 152
+      },
+      "pinyin_compatible_pct": 74.36,
+      "pinyin_only_pct": 33.02,
+      "tone_classes_pct": {
+        "fuzhou_legal": 97.62,
+        "mandarin_1_4": 1.19,
+        "other": 1.19
+      }
+    },
+    "gpt-5.4-mini": {
+      "n_predicted_syllables": 1181,
+      "n_error_syllables": 1138,
+      "segment_classes_pct": {
+        "pinyin_only": 7.64,
+        "both": 35.59,
+        "yngping_only": 36.47,
+        "neither": 20.3
+      },
+      "segment_classes_n": {
+        "pinyin_only": 87,
+        "both": 405,
+        "yngping_only": 415,
+        "neither": 231
+      },
+      "pinyin_compatible_pct": 43.23,
+      "pinyin_only_pct": 7.64,
+      "tone_classes_pct": {
+        "fuzhou_legal": 99.56,
+        "mandarin_1_4": 0.18,
+        "other": 0.26
+      }
+    }
+  }
+}

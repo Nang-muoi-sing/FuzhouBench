@@ -1,0 +1,42 @@
+{
+  "protocol": {
+    "queries": "200 human-written Group-B (manual_rewrites.py, eval_mandarin_dataset_v3.json)",
+    "corpus": 22651,
+    "candidate_pool": 50,
+    "top_k": 10,
+    "rrf_k": 60,
+    "embedding_model": "BAAI/bge-large-zh-v1.5",
+    "rerank_model": "BAAI/bge-reranker-v2-m3",
+    "backend": "siliconflow"
+  },
+  "table": {
+    "BM25": {
+      "n": 200,
+      "hit@1": 0.27,
+      "hit@5": 0.515,
+      "hit@10": 0.66,
+      "mrr": 0.38651587301587303
+    },
+    "Vector (bge-large-zh-v1.5, SF)": {
+      "n": 200,
+      "hit@1": 0.555,
+      "hit@5": 0.855,
+      "hit@10": 0.905,
+      "mrr": 0.6795297619047619
+    },
+    "Hybrid RRF (K=60)": {
+      "n": 200,
+      "hit@1": 0.42,
+      "hit@5": 0.78,
+      "hit@10": 0.915,
+      "mrr": 0.579813492063492
+    },
+    "RRF top-50 + rerank (bge-reranker-v2-m3, SF)": {
+      "n": 200,
+      "hit@1": 0.575,
+      "hit@5": 0.85,
+      "hit@10": 0.91,
+      "mrr": 0.6887757936507936
+    }
+  }
+}

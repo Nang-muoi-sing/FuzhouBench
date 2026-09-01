@@ -1,0 +1,19 @@
+FuzhouBench data (the contents of data/, eval/, results/, and audio/) is
+licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License (CC BY-NC-SA 4.0).
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+You are free to share and adapt the material for non-commercial purposes,
+provided that you give appropriate credit to the SeeDict community
+(https://www.seedict.com) and the FuzhouBench paper, indicate if changes were
+made, and distribute any derivatives under the same license.
+
+Additional terms requested by the data owners:
+  * The audio recordings were contributed under consent for non-commercial
+    research and educational use. Do not use them to train or distribute
+    voice-cloning models capable of impersonating the speakers.
+  * Commercial use requires prior permission from the SeeDict community, which
+    retains all rights to the underlying dictionary database.
+
+Code under code/ is licensed separately under the MIT License (LICENSE-CODE).

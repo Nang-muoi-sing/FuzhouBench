@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use FuzhouBench, please cite the paper below and credit the SeeDict community."
+title: "FuzhouBench: A Benchmark for Eastern Min Chinese with Tone Sandhi Annotations"
+type: dataset
+version: 1.0.1
+date-released: 2026-08-22
+license: CC-BY-NC-SA-4.0
+url: "https://www.seedict.com"
+repository-code: "https://github.com/Nang-muoi-sing/FuzhouBench"
+authors:
+  - family-names: Li
+    given-names: Xiaocan
+    affiliation: SeeDict Team
+  - family-names: Lin
+    given-names: Haoyu
+    affiliation: "SeeDict Team; Tsinghua Fuzhou School"
+preferred-citation:
+  type: conference-paper
+  title: "FuzhouBench: A Benchmark for Eastern Min Chinese with Tone Sandhi Annotations"
+  authors:
+    - family-names: Li
+      given-names: Xiaocan
+    - family-names: Lin
+      given-names: Haoyu
+  collection-title: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+  publisher:
+    name: Association for Computational Linguistics
+  year: 2026

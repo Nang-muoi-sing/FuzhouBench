@@ -1,0 +1,2 @@
+# Data files must round-trip byte-for-byte so CHECKSUMS.sha256 verifies on every platform.
+* -text

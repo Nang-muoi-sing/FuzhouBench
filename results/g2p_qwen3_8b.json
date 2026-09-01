@@ -1,0 +1,5033 @@
+{
+  "summary": {
+    "model": "Qwen3-8B",
+    "n_words": 500,
+    "word_exact_accuracy": 0.004,
+    "syllable_accuracy": 0.00997506234413965,
+    "tone_accuracy": 0.16209476309226933,
+    "by_char_len": {
+      "1": {
+        "n": 125,
+        "word_exact_acc": 0.016,
+        "syl_acc": 0.015873015873015872
+      },
+      "2": {
+        "n": 125,
+        "word_exact_acc": 0.0,
+        "syl_acc": 0.02032520325203252
+      },
+      "3": {
+        "n": 125,
+        "word_exact_acc": 0.0,
+        "syl_acc": 0.005494505494505495
+      },
+      "4": {
+        "n": 125,
+        "word_exact_acc": 0.0,
+        "syl_acc": 0.006423982869379015
+      }
+    }
+  },
+  "results": [
+    {
+      "text": "傷寒",
+      "gold_yngping": "suong55 hang53",
+      "char_len": 2,
+      "pred_yngping": "sang53 han55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "發芽",
+      "gold_yngping": "buok21 nga53",
+      "char_len": 2,
+      "pred_yngping": "fa5 ya213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蟠",
+      "gold_yngping": "huang55",
+      "char_len": 1,
+      "pred_yngping": "pan242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "扁柿",
+      "gold_yngping": "bieng55 kei242",
+      "char_len": 2,
+      "pred_yngping": "pian213 xi242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "七月七夕",
+      "gold_yngping": "cik21 nguok21 cik21 sik5",
+      "char_len": 4,
+      "pred_yngping": "qi5 jyut5 qi5 ci242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "六脈",
+      "gold_yngping": "leoyk33 mah5",
+      "char_len": 2,
+      "pred_yngping": "liu5 mau242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "風蚊袋",
+      "gold_yngping": "hung53 muong21 looy242",
+      "char_len": 3,
+      "pred_yngping": "fong13 wu242 dui55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "昊",
+      "gold_yngping": "hoo242",
+      "char_len": 1,
+      "pred_yngping": "hao55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "搜心挖空",
+      "gold_yngping": "seu21 sing21 uak5 keoyng213",
+      "char_len": 4,
+      "pred_yngping": "sou242 sin13 wa13 kong55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "字母",
+      "gold_yngping": "zi53 mo33",
+      "char_len": 2,
+      "pred_yngping": "zi5 mu242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "矞",
+      "gold_yngping": "yk5",
+      "char_len": 1,
+      "pred_yngping": "qiong55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "殍",
+      "gold_yngping": "piu33",
+      "char_len": 1,
+      "pred_yngping": "hui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "叔伯兄俤",
+      "gold_yngping": "zyk21 bah21 hiang53 nie242",
+      "char_len": 4,
+      "pred_yngping": "suk55 pe55 siang55 hong55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "玳",
+      "gold_yngping": "dai242",
+      "char_len": 1,
+      "pred_yngping": "da55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "汝兩隻",
+      "gold_yngping": "ny33 lang53 njieh24",
+      "char_len": 3,
+      "pred_yngping": "nui5 liang53 zhi213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "塗裏𡎔",
+      "gold_yngping": "tu53 lie33 oouk24",
+      "char_len": 3,
+      "pred_yngping": "tu242 li213 kau242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀隻錢子",
+      "gold_yngping": "soh21 jieh24 zieng21 nji33",
+      "char_len": 4,
+      "pred_yngping": "syo55 zhi213 qian1 czi213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鼓攏*母",
+      "gold_yngping": "gu21 lung24 mo33",
+      "char_len": 4,
+      "pred_yngping": "ku33 long55 m55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "火輪船",
+      "gold_yngping": "hui21 lung55 sung53",
+      "char_len": 3,
+      "pred_yngping": "hu242 lun55 chuan213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "鎝",
+      "gold_yngping": "dak24",
+      "char_len": 1,
+      "pred_yngping": "tou55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "目睭有珠",
+      "gold_yngping": "meik55 ziu55 u55 zuo55",
+      "char_len": 4,
+      "pred_yngping": "mu55 gua55 you55 zhu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 4,
+      "word_exact": 0
+    },
+    {
+      "text": "每日晡",
+      "gold_yngping": "mui21 nik5 buo55",
+      "char_len": 3,
+      "pred_yngping": "mei5 ri213 bu242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "欺",
+      "gold_yngping": "kia55",
+      "char_len": 1,
+      "pred_yngping": "ki242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "帳篷",
+      "gold_yngping": "duong55 mung53",
+      "char_len": 2,
+      "pred_yngping": "zong55 peng213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "十把隻",
+      "gold_yngping": "seik21 ba55 jieh24",
+      "char_len": 3,
+      "pred_yngping": "shih5 ba242 zhi213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "痘痘",
+      "gold_yngping": "dau21 dau242",
+      "char_len": 2,
+      "pred_yngping": "dou242 dou242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "齋",
+      "gold_yngping": "ze55",
+      "char_len": 1,
+      "pred_yngping": "tsai55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "含睶含睏",
+      "gold_yngping": "hang33 njung33 ngang21 ngooung213",
+      "char_len": 4,
+      "pred_yngping": "han53 huan53 han53 huan53",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "天烏暗去",
+      "gold_yngping": "tieng55 u53 ang213 ngo0",
+      "char_len": 4,
+      "pred_yngping": "tin55 u55 am55 ke55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "太奶",
+      "gold_yngping": "tai53 ne33",
+      "char_len": 2,
+      "pred_yngping": "tai55 nei242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "雨無了",
+      "gold_yngping": "y33 mo53 lau33",
+      "char_len": 3,
+      "pred_yngping": "yu33 wu55 liao55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "陰",
+      "gold_yngping": "ing55",
+      "char_len": 1,
+      "pred_yngping": "in55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "世*乇儂",
+      "gold_yngping": "sie21 noh55 neoyng53",
+      "char_len": 4,
+      "pred_yngping": "si55 xia55 nong55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "𦾳*去",
+      "gold_yngping": "looyk24 go0",
+      "char_len": 3,
+      "pred_yngping": "tou55 q55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "間邊日",
+      "gold_yngping": "gang21 meing55 nik5",
+      "char_len": 3,
+      "pred_yngping": "kian55 bia213 jik55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "碎",
+      "gold_yngping": "cooy213",
+      "char_len": 1,
+      "pred_yngping": "sui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "二八平光",
+      "gold_yngping": "ni53 waik24 bang55 nguong55",
+      "char_len": 4,
+      "pred_yngping": "er5 ba5 ping5 guang5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "天寢寢光",
+      "gold_yngping": "tieng55 cing21 cing21 guong55",
+      "char_len": 4,
+      "pred_yngping": "tian55 qin242 qin242 guang55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "薟",
+      "gold_yngping": "iang55",
+      "char_len": 1,
+      "pred_yngping": "xu55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "潺",
+      "gold_yngping": "zang53",
+      "char_len": 1,
+      "pred_yngping": "can242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "拍刀花",
+      "gold_yngping": "pah21 lo55 ua55",
+      "char_len": 3,
+      "pred_yngping": "pai213 dao242 hua55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "戰",
+      "gold_yngping": "cieng213",
+      "char_len": 1,
+      "pred_yngping": "zian55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "烏雲黑暗",
+      "gold_yngping": "u21 ung21 heik55 ang213",
+      "char_len": 4,
+      "pred_yngping": "u55 u55 tam55 hok55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "拍門擂戶",
+      "gold_yngping": "pah21 muong21 neoy21 ou242",
+      "char_len": 4,
+      "pred_yngping": "pik21 men55 lei55 hu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "承認",
+      "gold_yngping": "sing21 neing242",
+      "char_len": 2,
+      "pred_yngping": "chong213 ren55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "敷",
+      "gold_yngping": "hu55",
+      "char_len": 1,
+      "pred_yngping": "fu55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "終",
+      "gold_yngping": "dyng55",
+      "char_len": 1,
+      "pred_yngping": "zong55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "寢寢",
+      "gold_yngping": "cing24 njing33",
+      "char_len": 2,
+      "pred_yngping": "jin242 jin242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "開幕式",
+      "gold_yngping": "kui21 mouk55 seik24",
+      "char_len": 3,
+      "pred_yngping": "kai55 mu55 shi55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "軟軟肉",
+      "gold_yngping": "neoyng21 neoyng55 nyk5",
+      "char_len": 3,
+      "pred_yngping": "nian242 nian242 niu213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "齦",
+      "gold_yngping": "ngyng53",
+      "char_len": 1,
+      "pred_yngping": "tou55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "手溜",
+      "gold_yngping": "ciu55 liu242",
+      "char_len": 2,
+      "pred_yngping": "sou213 liu242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "月照",
+      "gold_yngping": "nguok5 ziu213",
+      "char_len": 2,
+      "pred_yngping": "yut55 zho242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "去做工",
+      "gold_yngping": "ko21 zo55 geoyng55",
+      "char_len": 3,
+      "pred_yngping": "cu213 do242 ngai242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "目睭擘去",
+      "gold_yngping": "meik55 ziu55 bah24 go0",
+      "char_len": 4,
+      "pred_yngping": "mu55 gua55 bo55 ke55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "出鋪",
+      "gold_yngping": "couk24 puo55",
+      "char_len": 2,
+      "pred_yngping": "cu213 pu242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "年把兩年",
+      "gold_yngping": "nieng33 ba33 lang55 nieng53",
+      "char_len": 4,
+      "pred_yngping": "nian5 ba242 liang5 nian5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "滑",
+      "gold_yngping": "huak5",
+      "char_len": 1,
+      "pred_yngping": "hua5",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "虎牙齒",
+      "gold_yngping": "hu24 ngai33",
+      "char_len": 3,
+      "pred_yngping": "hu33 ya213 ci213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "照照日",
+      "gold_yngping": "ziu21 iu55 nik5",
+      "char_len": 3,
+      "pred_yngping": "zho55 zho55 ri213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "學堂女",
+      "gold_yngping": "houk53 doung33 ny33",
+      "char_len": 3,
+      "pred_yngping": "sok55 tang55 nu33",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "拍鑼拍鼓",
+      "gold_yngping": "pah55 lo53 pah53 gu33",
+      "char_len": 4,
+      "pred_yngping": "pik21 lo242 pik21 gu33",
+      "n_syl_gold": 4,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "蠶繭箬樹",
+      "gold_yngping": "ceing21 geing21 nuoh5 ciu213",
+      "char_len": 4,
+      "pred_yngping": "tsa55 tsian55 nio55 syu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "銅錢",
+      "gold_yngping": "deoyng55 njieng53",
+      "char_len": 2,
+      "pred_yngping": "tung55 cian213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "利害",
+      "gold_yngping": "li53 ai242",
+      "char_len": 2,
+      "pred_yngping": "li53 hai213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "堲",
+      "gold_yngping": "zeik24",
+      "char_len": 1,
+      "pred_yngping": "tou55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "寫字",
+      "gold_yngping": "sia55 zei242",
+      "char_len": 2,
+      "pred_yngping": "sia242 ci213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "凸喙凹鼻",
+      "gold_yngping": "tu55 cui213 neh24 pei213",
+      "char_len": 4,
+      "pred_yngping": "tu21 hui242 ao213 bi213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "臭伍*𦤟",
+      "gold_yngping": "cau213 ngu55 seing213",
+      "char_len": 4,
+      "pred_yngping": "chou55 wu55 tso55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "煞鼓",
+      "gold_yngping": "sak24 gu33",
+      "char_len": 2,
+      "pred_yngping": "sa242 gu33",
+      "n_syl_gold": 2,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "伊娘奶",
+      "gold_yngping": "i53 noung33 ne33",
+      "char_len": 3,
+      "pred_yngping": "i213 niang242 nei242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "嗅",
+      "gold_yngping": "hiu213",
+      "char_len": 1,
+      "pred_yngping": "sau242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "上椅踏桌",
+      "gold_yngping": "suong53 ie33 dak21 dooh24",
+      "char_len": 4,
+      "pred_yngping": "sang55 yi5 ta213 zok55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "七講八聽",
+      "gold_yngping": "cik21 goung21 meik55 tiang21",
+      "char_len": 4,
+      "pred_yngping": "qi5 gong242 ba5 ting213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "掏*碗手",
+      "gold_yngping": "do21 uang24 njiu33",
+      "char_len": 4,
+      "pred_yngping": "tou213 wan55 shou213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "躁",
+      "gold_yngping": "zau213",
+      "char_len": 1,
+      "pred_yngping": "tsao242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "阮",
+      "gold_yngping": "nguang33",
+      "char_len": 1,
+      "pred_yngping": "nian55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "狷",
+      "gold_yngping": "gyong33",
+      "char_len": 1,
+      "pred_yngping": "kuan55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "梃",
+      "gold_yngping": "ting33",
+      "char_len": 1,
+      "pred_yngping": "tong55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鋸鑢",
+      "gold_yngping": "gy53 loo213",
+      "char_len": 2,
+      "pred_yngping": "sau242 nian213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "矇",
+      "gold_yngping": "mung53",
+      "char_len": 1,
+      "pred_yngping": "meng55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "駃",
+      "gold_yngping": "kuai33",
+      "char_len": 1,
+      "pred_yngping": "pou242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "敆糊敆屎",
+      "gold_yngping": "gak21 gu21 gak33 sai33",
+      "char_len": 4,
+      "pred_yngping": "dou242 hu213 dou242 shi213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "糖板碎",
+      "gold_yngping": "toung21 meing55 cooy213",
+      "char_len": 3,
+      "pred_yngping": "tong213 pan213 sui55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "迦",
+      "gold_yngping": "gia55",
+      "char_len": 1,
+      "pred_yngping": "ka242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "風暴雨",
+      "gold_yngping": "hung21 mo53 y33",
+      "char_len": 3,
+      "pred_yngping": "fong13 bu55 rau242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "癌",
+      "gold_yngping": "ngang53",
+      "char_len": 1,
+      "pred_yngping": "ai55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "過運",
+      "gold_yngping": "guo53 oung242",
+      "char_len": 2,
+      "pred_yngping": "guo55 yun55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "無聊理",
+      "gold_yngping": "mo33 liu33 li33",
+      "char_len": 3,
+      "pred_yngping": "wu55 liu55 li213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "䀐",
+      "gold_yngping": "sang55",
+      "char_len": 1,
+      "pred_yngping": "nguai242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "餼羊告朔",
+      "gold_yngping": "ki55 yong53 guk55 soouk24",
+      "char_len": 4,
+      "pred_yngping": "pi55 yang24 gwo55 sok55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "曲折",
+      "gold_yngping": "kyk55 ziek24",
+      "char_len": 2,
+      "pred_yngping": "cu213 zhe55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鸓",
+      "gold_yngping": "lui33",
+      "char_len": 1,
+      "pred_yngping": "dian55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "扮*",
+      "gold_yngping": "baing242",
+      "char_len": 2,
+      "pred_yngping": "pan242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "㲺々",
+      "gold_yngping": "ce21 leih24",
+      "char_len": 2,
+      "pred_yngping": "nui55 nui55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "儥認",
+      "gold_yngping": "me53 neing242",
+      "char_len": 2,
+      "pred_yngping": "nang55 ren55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "枕頭巾",
+      "gold_yngping": "zieng21 nau55 yng55",
+      "char_len": 3,
+      "pred_yngping": "zhen213 tou213 jin55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "撐篙搖櫓",
+      "gold_yngping": "tang55 go55 iu33 lu33",
+      "char_len": 4,
+      "pred_yngping": "tsung55 gao242 yao213 nyo213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "拖把",
+      "gold_yngping": "tua53 wa33",
+      "char_len": 2,
+      "pred_yngping": "to213 pa242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "擺暝",
+      "gold_yngping": "be21 mang53",
+      "char_len": 2,
+      "pred_yngping": "pai213 ming55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "破草鞋",
+      "gold_yngping": "puai21 cau21 e53",
+      "char_len": 3,
+      "pred_yngping": "po242 cai213 xia242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "晏",
+      "gold_yngping": "ieng213",
+      "char_len": 1,
+      "pred_yngping": "yin55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "肣",
+      "gold_yngping": "geing242",
+      "char_len": 1,
+      "pred_yngping": "pia213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "四時八節",
+      "gold_yngping": "si55 si53 beik55 zaik24",
+      "char_len": 4,
+      "pred_yngping": "si5 shi55 ba5 jie213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "矜",
+      "gold_yngping": "king55",
+      "char_len": 1,
+      "pred_yngping": "jin13",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "融和",
+      "gold_yngping": "yng33 huo53",
+      "char_len": 2,
+      "pred_yngping": "rong213 he242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "傀儡",
+      "gold_yngping": "kuo33 leoy33",
+      "char_len": 2,
+      "pred_yngping": "kui55 luei55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "耳蕪*",
+      "gold_yngping": "ngei242 u53",
+      "char_len": 3,
+      "pred_yngping": "er5 wu242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "上好",
+      "gold_yngping": "suong53 ngo33",
+      "char_len": 2,
+      "pred_yngping": "sang53 hao5",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "雷公拍去",
+      "gold_yngping": "lai55 ung55 pah24 go0",
+      "char_len": 4,
+      "pred_yngping": "lai5 gong242 pah55 kue242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "笞",
+      "gold_yngping": "ci55",
+      "char_len": 1,
+      "pred_yngping": "tsai213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "斲",
+      "gold_yngping": "doouk24",
+      "char_len": 1,
+      "pred_yngping": "zhuo242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "拖車其",
+      "gold_yngping": "tai55 cia55 i0",
+      "char_len": 3,
+      "pred_yngping": "to213 ca242 qi242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "臭伍*幸",
+      "gold_yngping": "cau213 ngu55 haing242",
+      "char_len": 4,
+      "pred_yngping": "chou55 wu55 sing55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "破中晝",
+      "gold_yngping": "puai213 doung53 dau213",
+      "char_len": 3,
+      "pred_yngping": "po242 zung55 zau55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "乜乇前後",
+      "gold_yngping": "mieh21 noh53 seing21 au242",
+      "char_len": 4,
+      "pred_yngping": "mei55 zha55 qian55 hou55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "早起頭",
+      "gold_yngping": "zai21 lau53",
+      "char_len": 3,
+      "pred_yngping": "tsau53 ci33 tou55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "閱",
+      "gold_yngping": "yok24",
+      "char_len": 1,
+      "pred_yngping": "yap5",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "櫥頭頂",
+      "gold_yngping": "diu33 lau33 ling33",
+      "char_len": 3,
+      "pred_yngping": "tong55 toun55 ting55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "藍*尾星",
+      "gold_yngping": "nang21 mui21 ling55",
+      "char_len": 4,
+      "pred_yngping": "lan5 wei213 sing5",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "男形女相",
+      "gold_yngping": "nang55 hing53 ny55 suong213",
+      "char_len": 4,
+      "pred_yngping": "nang213 sing55 nang213 siang55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "面前牙齒",
+      "gold_yngping": "ming53 neing33 ngai33",
+      "char_len": 4,
+      "pred_yngping": "mian55 qian55 ya55 si55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "牙齒石",
+      "gold_yngping": "ngai21 suoh5",
+      "char_len": 3,
+      "pred_yngping": "ya53 shi55 shih213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "天平地平",
+      "gold_yngping": "tieng55 bang53 di55 bang53",
+      "char_len": 4,
+      "pred_yngping": "tian13 ping55 di13 ping55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "硯盒",
+      "gold_yngping": "ngieng55 ak5",
+      "char_len": 2,
+      "pred_yngping": "dian55 he55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "蹣跚倒",
+      "gold_yngping": "ba21 lang53 no33",
+      "char_len": 3,
+      "pred_yngping": "ci213 san242 daw55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "半晡暗",
+      "gold_yngping": "buang53 muang213",
+      "char_len": 3,
+      "pred_yngping": "ban5 bu213 an5",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "菩薩事",
+      "gold_yngping": "bu21 lak55 dai242",
+      "char_len": 3,
+      "pred_yngping": "pu55 sa55 si55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "踽",
+      "gold_yngping": "ngy33",
+      "char_len": 1,
+      "pred_yngping": "yut242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "做闊",
+      "gold_yngping": "zo53 kuak24",
+      "char_len": 2,
+      "pred_yngping": "co213 kuo55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "刣魚",
+      "gold_yngping": "tai33 ngy53",
+      "char_len": 2,
+      "pred_yngping": "dian53 yu213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "玘",
+      "gold_yngping": "ki33",
+      "char_len": 1,
+      "pred_yngping": "lui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "國",
+      "gold_yngping": "guok24",
+      "char_len": 1,
+      "pred_yngping": "guo55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "虞",
+      "gold_yngping": "ngy53",
+      "char_len": 1,
+      "pred_yngping": "yu55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "堯街去了",
+      "gold_yngping": "ngiu55 nge55 o0 lau0",
+      "char_len": 4,
+      "pred_yngping": "yao55 jie55 qiu55 le5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "野価回",
+      "gold_yngping": "ia21 se55 hui53",
+      "char_len": 3,
+      "pred_yngping": "ye33 gua5 hui55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "做生日",
+      "gold_yngping": "zo21 lang55 nik5",
+      "char_len": 3,
+      "pred_yngping": "co213 si213 ri213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "龍捲風",
+      "gold_yngping": "lyng21 uong21 ung55",
+      "char_len": 3,
+      "pred_yngping": "lung55 jyuan242 feng55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "繘",
+      "gold_yngping": "yk5",
+      "char_len": 1,
+      "pred_yngping": "niau55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "怪事",
+      "gold_yngping": "guai53 seoy242",
+      "char_len": 2,
+      "pred_yngping": "kuei55 si213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "袈裟",
+      "gold_yngping": "gia55 sia55",
+      "char_len": 2,
+      "pred_yngping": "jia11 sa11",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "七做八做",
+      "gold_yngping": "cik21 zo21 beik55 zoo213",
+      "char_len": 4,
+      "pred_yngping": "qi5 co213 ba5 co213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "先生母",
+      "gold_yngping": "sing21 nang53 mu33",
+      "char_len": 3,
+      "pred_yngping": "sian53 seng242 mou55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "拍𥍉",
+      "gold_yngping": "pah53 niak24",
+      "char_len": 2,
+      "pred_yngping": "pai213 pia242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "髻",
+      "gold_yngping": "gui213",
+      "char_len": 1,
+      "pred_yngping": "ji33",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "偏爿",
+      "gold_yngping": "pieng55 meing53",
+      "char_len": 2,
+      "pred_yngping": "pian55 pan242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "納鞋底",
+      "gold_yngping": "nak5 e33 le33",
+      "char_len": 3,
+      "pred_yngping": "na242 xia13 di33",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "㖹",
+      "gold_yngping": "bung53",
+      "char_len": 1,
+      "pred_yngping": "nguai242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "易會難精",
+      "gold_yngping": "gie53 a242 nang55 zing55",
+      "char_len": 4,
+      "pred_yngping": "i55 hui55 nan55 cing55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "鐒",
+      "gold_yngping": "loo242",
+      "char_len": 1,
+      "pred_yngping": "lau242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "本地儂",
+      "gold_yngping": "buong21 ni55 neoyng53",
+      "char_len": 3,
+      "pred_yngping": "beng55 di55 nong55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "譬如講",
+      "gold_yngping": "pi21 y53 goung33",
+      "char_len": 3,
+      "pred_yngping": "pi55 ru55 gong242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀工遘暝",
+      "gold_yngping": "soh55 geoyng55 gau55 mang53",
+      "char_len": 4,
+      "pred_yngping": "shu55 gong242 gau213 ming55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "融",
+      "gold_yngping": "yng53",
+      "char_len": 1,
+      "pred_yngping": "rong242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "懸下心",
+      "gold_yngping": "geing21 ngia55 ling55",
+      "char_len": 3,
+      "pred_yngping": "xian53 ha213 sin213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "陰",
+      "gold_yngping": "eing55",
+      "char_len": 1,
+      "pred_yngping": "in55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "蔣*",
+      "gold_yngping": "zuong33",
+      "char_len": 2,
+      "pred_yngping": "cang55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "日蝕",
+      "gold_yngping": "nik5 seik24",
+      "char_len": 2,
+      "pred_yngping": "ji213 shi55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "講評話",
+      "gold_yngping": "goung55 bing21 ua242",
+      "char_len": 3,
+      "pred_yngping": "gong242 pung55 hua213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "猴囝",
+      "gold_yngping": "gau33 iang33",
+      "char_len": 2,
+      "pred_yngping": "hou242 gua55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "粽",
+      "gold_yngping": "zooyng213",
+      "char_len": 1,
+      "pred_yngping": "zong55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "復糟復醬",
+      "gold_yngping": "bu55 zau55 bu53 zuong213",
+      "char_len": 4,
+      "pred_yngping": "fu55 cao242 fu55 jiang213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "後娘奶",
+      "gold_yngping": "au53 noung33 ne33",
+      "char_len": 3,
+      "pred_yngping": "hou55 niang213 nei242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "體體",
+      "gold_yngping": "te33 te33",
+      "char_len": 2,
+      "pred_yngping": "ti33 ti33",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "落身",
+      "gold_yngping": "loh55 ling55",
+      "char_len": 2,
+      "pred_yngping": "lak55 shen213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "大少爺",
+      "gold_yngping": "duai21 liu55 ie53",
+      "char_len": 3,
+      "pred_yngping": "da5 siao242 ye213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "大湖弄",
+      "gold_yngping": "duai53 u21 looyng242",
+      "char_len": 3,
+      "pred_yngping": "da5 hu55 nong213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "刀",
+      "gold_yngping": "do55",
+      "char_len": 1,
+      "pred_yngping": "dau242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "比手劃骹",
+      "gold_yngping": "bi24 jiu33 uah5 ka55",
+      "char_len": 4,
+      "pred_yngping": "pi55 shou55 hua55 kao55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "水庫",
+      "gold_yngping": "zui55 ou213",
+      "char_len": 2,
+      "pred_yngping": "sui5 ku55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "無這無許",
+      "gold_yngping": "meoy24 meo33",
+      "char_len": 4,
+      "pred_yngping": "wu55 ze242 wu55 xu33",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "有來路",
+      "gold_yngping": "u53 lai21 luo242",
+      "char_len": 3,
+      "pred_yngping": "you5 lai213 lu5",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "䜋",
+      "gold_yngping": "hui242",
+      "char_len": 1,
+      "pred_yngping": "gu33",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "綿紙",
+      "gold_yngping": "mieng33 njai33",
+      "char_len": 2,
+      "pred_yngping": "yin213 zhi242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鼎邊蚩*",
+      "gold_yngping": "diang21 mieng55 ci55",
+      "char_len": 4,
+      "pred_yngping": "ding13 bian13 chi13",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "三面六議",
+      "gold_yngping": "sang53 meing213 leoyk21 ngie242",
+      "char_len": 4,
+      "pred_yngping": "san5 mian5 liu5 yi5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "害",
+      "gold_yngping": "hai242",
+      "char_len": 1,
+      "pred_yngping": "hai242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 1
+    },
+    {
+      "text": "牆頭帽",
+      "gold_yngping": "cuong21 nau21 moo242",
+      "char_len": 3,
+      "pred_yngping": "co213 tou55 mao242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "竈糖竈囝",
+      "gold_yngping": "zau21 loung21 zau53 iang33",
+      "char_len": 4,
+      "pred_yngping": "jou55 tang213 jou55 guan242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "歌",
+      "gold_yngping": "go55",
+      "char_len": 1,
+      "pred_yngping": "go55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 1
+    },
+    {
+      "text": "佑",
+      "gold_yngping": "iu242",
+      "char_len": 1,
+      "pred_yngping": "yau242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "牛腸馬肚",
+      "gold_yngping": "ngu21 loung21 ma55 lou242",
+      "char_len": 4,
+      "pred_yngping": "ngu33 cang21 ma242 du213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀分",
+      "gold_yngping": "soh55 hung55",
+      "char_len": 2,
+      "pred_yngping": "shu55 fen55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "三把兩日",
+      "gold_yngping": "sang21 ma21 lang55 nik5",
+      "char_len": 4,
+      "pred_yngping": "san5 ba242 liang5 ri55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鑽來鑽去",
+      "gold_yngping": "zoung55 ni53 zoung53 ngoo21",
+      "char_len": 4,
+      "pred_yngping": "zian242 lai21 zian242 qi213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "皂",
+      "gold_yngping": "zoo242",
+      "char_len": 1,
+      "pred_yngping": "tsao55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "放晝",
+      "gold_yngping": "bung53 nau213",
+      "char_len": 2,
+      "pred_yngping": "fang53 zhou213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "卜",
+      "gold_yngping": "bouk24",
+      "char_len": 1,
+      "pred_yngping": "pu242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "肥豬丸",
+      "gold_yngping": "bui55 ly55 uong53",
+      "char_len": 3,
+      "pred_yngping": "fei13 zhu242 wan242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "葷",
+      "gold_yngping": "hung55",
+      "char_len": 1,
+      "pred_yngping": "xung55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "生癬",
+      "gold_yngping": "sang53 ciang33",
+      "char_len": 2,
+      "pred_yngping": "sin13 siu242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "套裙",
+      "gold_yngping": "to55 ung53",
+      "char_len": 2,
+      "pred_yngping": "tou213 qun213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "膂",
+      "gold_yngping": "ly33",
+      "char_len": 1,
+      "pred_yngping": "lui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蓮花座",
+      "gold_yngping": "leing21 ua53 joo242",
+      "char_len": 3,
+      "pred_yngping": "lian55 hua55 zuo55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "韻",
+      "gold_yngping": "oung242",
+      "char_len": 1,
+      "pred_yngping": "yun5",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "手",
+      "gold_yngping": "ciu33",
+      "char_len": 1,
+      "pred_yngping": "sou242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鄉下儂",
+      "gold_yngping": "hyong21 nga55 neoyng53",
+      "char_len": 3,
+      "pred_yngping": "xiang13 xia5 ngou242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "竹椏椏",
+      "gold_yngping": "dyk21 nge55 nge55",
+      "char_len": 3,
+      "pred_yngping": "chu213 tse242 tse242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "癃",
+      "gold_yngping": "lyng53",
+      "char_len": 1,
+      "pred_yngping": "ling213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "忘恩背義",
+      "gold_yngping": "uong21 ngoung21 bui53 ngie242",
+      "char_len": 4,
+      "pred_yngping": "wong242 on13 bei213 i33",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "心焦肚辣",
+      "gold_yngping": "sing21 njiu21 lu55 lak5",
+      "char_len": 4,
+      "pred_yngping": "sin13 jao242 du5 la213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "徛店",
+      "gold_yngping": "kie53 daing213",
+      "char_len": 2,
+      "pred_yngping": "dian55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "這裏",
+      "gold_yngping": "zie24 li33",
+      "char_len": 2,
+      "pred_yngping": "zat55 li55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "泇流*眩",
+      "gold_yngping": "ga33 lau33 hing53",
+      "char_len": 4,
+      "pred_yngping": "nang55 liu213 sian55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "打膽盻",
+      "gold_yngping": "da21 lang24 he33",
+      "char_len": 3,
+      "pred_yngping": "da213 dan213 pan242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鴉片拳頭",
+      "gold_yngping": "a53 pieng213 gung33 tau53",
+      "char_len": 4,
+      "pred_yngping": "wai55 piaan55 qiu55 tou55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "弄巧反拙",
+      "gold_yngping": "leoyng53 kiu33 huang55 zuok24",
+      "char_len": 4,
+      "pred_yngping": "nong53 qiao33 fan55 zhuo213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 3,
+      "word_exact": 0
+    },
+    {
+      "text": "匝",
+      "gold_yngping": "zak24",
+      "char_len": 1,
+      "pred_yngping": "tsa55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "對不住",
+      "gold_yngping": "deoy21 buk5 zeoy242",
+      "char_len": 3,
+      "pred_yngping": "dui55 bu213 zu242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "鷨",
+      "gold_yngping": "hua53",
+      "char_len": 1,
+      "pred_yngping": "kho55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "向日葵子",
+      "gold_yngping": "hyong21 nik55 gi53 zi33",
+      "char_len": 4,
+      "pred_yngping": "siang53 ri213 kui55 zi242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "茴",
+      "gold_yngping": "hui53",
+      "char_len": 1,
+      "pred_yngping": "xiu55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "日記牌",
+      "gold_yngping": "nik21 gi55 be53",
+      "char_len": 3,
+      "pred_yngping": "ji55 ki213 pae242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "大儂大相",
+      "gold_yngping": "duai21 neoyng21 nuai53 luong213",
+      "char_len": 4,
+      "pred_yngping": "da55 nong55 da55 xiang55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "謳",
+      "gold_yngping": "eu55",
+      "char_len": 1,
+      "pred_yngping": "sung55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "呵呵啼",
+      "gold_yngping": "heo21 heo55 tie53",
+      "char_len": 3,
+      "pred_yngping": "he5 he5 ti213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "烰油𥻵",
+      "gold_yngping": "pu55 iu55 li53",
+      "char_len": 3,
+      "pred_yngping": "yin55 you55 yu55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "門後",
+      "gold_yngping": "muong21 ngau242",
+      "char_len": 2,
+      "pred_yngping": "men5 hou55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "七刁八臒",
+      "gold_yngping": "cik21 diu21 beik5 ooh24",
+      "char_len": 4,
+      "pred_yngping": "qi5 diao242 ba5 ge213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "七顛八倒",
+      "gold_yngping": "cik21 dieng55 beik24 do33",
+      "char_len": 4,
+      "pred_yngping": "qi213 tian1 dada242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "格",
+      "gold_yngping": "gah24",
+      "char_len": 1,
+      "pred_yngping": "ge55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "武松打虎",
+      "gold_yngping": "u21 lyng53 da24 hu33",
+      "char_len": 4,
+      "pred_yngping": "wu33 song55 da21 hu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "反股",
+      "gold_yngping": "being24 ngu33",
+      "char_len": 2,
+      "pred_yngping": "fan33 gu33",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "叔伯俤",
+      "gold_yngping": "zyk21 bah53 lie242",
+      "char_len": 3,
+      "pred_yngping": "suk55 bo55 tuk55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "㿩",
+      "gold_yngping": "toung33",
+      "char_len": 1,
+      "pred_yngping": "nguai242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "親家妗",
+      "gold_yngping": "cing21 nga53 eing242",
+      "char_len": 3,
+      "pred_yngping": "qin13 jia1 cun242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "筱",
+      "gold_yngping": "siu33",
+      "char_len": 1,
+      "pred_yngping": "siao55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "𥳳箬",
+      "gold_yngping": "ti33 nuoh5",
+      "char_len": 2,
+      "pred_yngping": "sia55 ruo5",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "滿",
+      "gold_yngping": "muang33",
+      "char_len": 1,
+      "pred_yngping": "man5",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "含癲不遂",
+      "gold_yngping": "hang21 nieng21 muk55 sui242",
+      "char_len": 4,
+      "pred_yngping": "han53 dian242 bu55 sui55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "白燒",
+      "gold_yngping": "bah55 liu55",
+      "char_len": 2,
+      "pred_yngping": "ba5 shao242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "告朔羊存",
+      "gold_yngping": "guk55 soouk24 yong55 zoung53",
+      "char_len": 4,
+      "pred_yngping": "kou53 shuo55 iang55 tsun55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "者*儂",
+      "gold_yngping": "zia21 neoyng53",
+      "char_len": 3,
+      "pred_yngping": "zhe55 nong242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "無行着",
+      "gold_yngping": "mo21 giang55 duoh5",
+      "char_len": 3,
+      "pred_yngping": "wu55 hing55 zok55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "儳",
+      "gold_yngping": "zang53",
+      "char_len": 1,
+      "pred_yngping": "nai55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "當師",
+      "gold_yngping": "doung55 ny55",
+      "char_len": 2,
+      "pred_yngping": "dang242 si242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "隔",
+      "gold_yngping": "gah24",
+      "char_len": 1,
+      "pred_yngping": "ge242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "䞦",
+      "gold_yngping": "heoyk5",
+      "char_len": 1,
+      "pred_yngping": "guai242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "反腸反肚",
+      "gold_yngping": "being21 noung21 meing55 nou242",
+      "char_len": 4,
+      "pred_yngping": "fan242 chang213 fan242 du213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "千一零蜀",
+      "gold_yngping": "cieng53 eik24 ling55 suoh5",
+      "char_len": 4,
+      "pred_yngping": "qian1 cee5 loeng5 shoo5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "杪",
+      "gold_yngping": "miu33",
+      "char_len": 1,
+      "pred_yngping": "ma55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "捋座",
+      "gold_yngping": "lak5 zoo242",
+      "char_len": 2,
+      "pred_yngping": "lu213 zuo55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "拔直去",
+      "gold_yngping": "beik55 dik5 go0",
+      "char_len": 3,
+      "pred_yngping": "pa242 zhi55 qi55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "敗尾囝",
+      "gold_yngping": "bai21 mui24 giang33",
+      "char_len": 3,
+      "pred_yngping": "pai213 wai55 gua55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鴨囝囝",
+      "gold_yngping": "ak21 giang24 ngiang33",
+      "char_len": 3,
+      "pred_yngping": "a242 gai242 gai242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "自細",
+      "gold_yngping": "zy53 sa213",
+      "char_len": 2,
+      "pred_yngping": "zi53 xi213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀隻",
+      "gold_yngping": "soh21 jieh24",
+      "char_len": 2,
+      "pred_yngping": "shu53 zhi242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "絕硬",
+      "gold_yngping": "zuok21 ngaing242",
+      "char_len": 2,
+      "pred_yngping": "zat55 jing242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "當襶*",
+      "gold_yngping": "doung53 nai213",
+      "char_len": 3,
+      "pred_yngping": "dang213 tai242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "窩風",
+      "gold_yngping": "uo21 hung55",
+      "char_len": 2,
+      "pred_yngping": "nguai242 fong13",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "染染嘈",
+      "gold_yngping": "niang21 niang21 zeo53",
+      "char_len": 3,
+      "pred_yngping": "nian242 nian242 cao213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "筍殼做帽",
+      "gold_yngping": "sung55 ngooyk24 zo53 moo242",
+      "char_len": 4,
+      "pred_yngping": "seng55 koe55 co213 mao242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "臭豆乳",
+      "gold_yngping": "cau21 lau53 juo33",
+      "char_len": 3,
+      "pred_yngping": "chou242 dou55 ru213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀禮拜",
+      "gold_yngping": "soh21 le55 wai213",
+      "char_len": 3,
+      "pred_yngping": "syo55 li33 bai213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "以早",
+      "gold_yngping": "i24 za33",
+      "char_len": 2,
+      "pred_yngping": "yi33 zao33",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "回南",
+      "gold_yngping": "hui33 nang53",
+      "char_len": 2,
+      "pred_yngping": "hui53 nan213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "批肉",
+      "gold_yngping": "pie55 nyk5",
+      "char_len": 2,
+      "pred_yngping": "pi213 ngyu242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "糜",
+      "gold_yngping": "mui53",
+      "char_len": 1,
+      "pred_yngping": "mi55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "朝裏",
+      "gold_yngping": "diu33 die33",
+      "char_len": 2,
+      "pred_yngping": "chao213 li55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "嘟々喙",
+      "gold_yngping": "du21 lu53 jui213",
+      "char_len": 3,
+      "pred_yngping": "du242 du242 hui55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "喇",
+      "gold_yngping": "lak5",
+      "char_len": 1,
+      "pred_yngping": "la242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "暗袋",
+      "gold_yngping": "ang53 dooy242",
+      "char_len": 2,
+      "pred_yngping": "an55 dai213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "萬字糕",
+      "gold_yngping": "uang21 zi55 go55",
+      "char_len": 3,
+      "pred_yngping": "wan5 zi213 gao213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "餅",
+      "gold_yngping": "biang33",
+      "char_len": 1,
+      "pred_yngping": "pi33",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "緊",
+      "gold_yngping": "ging33",
+      "char_len": 1,
+      "pred_yngping": "jin55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "食儥焦",
+      "gold_yngping": "sieh55 me55 da55",
+      "char_len": 3,
+      "pred_yngping": "si55 shi55 jiu55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 3,
+      "word_exact": 0
+    },
+    {
+      "text": "𡟑無定",
+      "gold_yngping": "heu21 mo21 liang242",
+      "char_len": 3,
+      "pred_yngping": "yin242 wu55 ding55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "北港第一",
+      "gold_yngping": "beoyk24 geoyng33 de53 eik24",
+      "char_len": 4,
+      "pred_yngping": "bei5 gang242 di4 yi5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "八月中秋",
+      "gold_yngping": "beik21 nguok21 dyng55 njiu55",
+      "char_len": 4,
+      "pred_yngping": "pa21 yut55 chou13 zhu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "骹踏車",
+      "gold_yngping": "ka21 lak55 cia55",
+      "char_len": 3,
+      "pred_yngping": "fou213 ta242 sa213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蟣",
+      "gold_yngping": "gi55",
+      "char_len": 1,
+      "pred_yngping": "kang242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "頭三尾四",
+      "gold_yngping": "tau55 sang55 mui55 sei213",
+      "char_len": 4,
+      "pred_yngping": "tou21 san55 wei33 si55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "芝",
+      "gold_yngping": "zie55",
+      "char_len": 1,
+      "pred_yngping": "chi13",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "枕頭布",
+      "gold_yngping": "zieng21 nau53 wuo213",
+      "char_len": 3,
+      "pred_yngping": "zhen213 tou55 bu55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "哇",
+      "gold_yngping": "ua55",
+      "char_len": 1,
+      "pred_yngping": "wa5",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "𤛏",
+      "gold_yngping": "cy53",
+      "char_len": 1,
+      "pred_yngping": "pang55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "踔",
+      "gold_yngping": "doouk24",
+      "char_len": 1,
+      "pred_yngping": "chou213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "笪",
+      "gold_yngping": "dang213",
+      "char_len": 1,
+      "pred_yngping": "da242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "神經病",
+      "gold_yngping": "sing21 ging53 bang242",
+      "char_len": 3,
+      "pred_yngping": "sin13 jing13 bing55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "䖳骹",
+      "gold_yngping": "ta55 ka55",
+      "char_len": 2,
+      "pred_yngping": "tou55 kou55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "漤⿱艹越",
+      "gold_yngping": "lang21 nguok5",
+      "char_len": 4,
+      "pred_yngping": "lai55 yue55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "出血",
+      "gold_yngping": "cuk55 haik24",
+      "char_len": 2,
+      "pred_yngping": "chu213 xue55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "對面擪",
+      "gold_yngping": "deoy55 ming53 ngaik24",
+      "char_len": 3,
+      "pred_yngping": "dou55 mian55 yip55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "難悶難劑",
+      "gold_yngping": "nang21 mung21 nang21 nja242",
+      "char_len": 4,
+      "pred_yngping": "nan55 men55 nan55 ji33",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "殫",
+      "gold_yngping": "dang33",
+      "char_len": 1,
+      "pred_yngping": "tan55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "溫泉",
+      "gold_yngping": "ung55 zuong53",
+      "char_len": 2,
+      "pred_yngping": "wen5 cun213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "小利",
+      "gold_yngping": "siu55 lei213",
+      "char_len": 2,
+      "pred_yngping": "siu53 li213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "罷",
+      "gold_yngping": "ba242",
+      "char_len": 1,
+      "pred_yngping": "pi242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "抵煞",
+      "gold_yngping": "di55 sak24",
+      "char_len": 2,
+      "pred_yngping": "di33 sa242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "後𩨑帶帶",
+      "gold_yngping": "au55 lang55 dai21 dai213",
+      "char_len": 4,
+      "pred_yngping": "hou55 hou55 tai213 tai213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 3,
+      "word_exact": 0
+    },
+    {
+      "text": "裨*",
+      "gold_yngping": "bie55",
+      "char_len": 2,
+      "pred_yngping": "pei55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "全真",
+      "gold_yngping": "zuong55 zing55",
+      "char_len": 2,
+      "pred_yngping": "quan53 zhen55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "仱仱",
+      "gold_yngping": "dang33 nang33",
+      "char_len": 2,
+      "pred_yngping": "ngai55 ngai55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "摔粟",
+      "gold_yngping": "seoyk5 cuoh24",
+      "char_len": 2,
+      "pred_yngping": "sia213 su55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "頭月扣",
+      "gold_yngping": "tau21 nguok5 kau213",
+      "char_len": 3,
+      "pred_yngping": "tou213 yue55 kou242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "甏甏甕甕",
+      "gold_yngping": "pang55 pang55 eoyng53 ooyng213",
+      "char_len": 4,
+      "pred_yngping": "beng55 beng55 weng55 weng55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "飯桶",
+      "gold_yngping": "buong53 teoyng33",
+      "char_len": 2,
+      "pred_yngping": "fan5 tung213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "紅紙包",
+      "gold_yngping": "eoyng21 njai21 wau55",
+      "char_len": 3,
+      "pred_yngping": "hong5 zhi5 bao213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "骹寒",
+      "gold_yngping": "ka55 gang53",
+      "char_len": 2,
+      "pred_yngping": "fu55 han213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "天老爺",
+      "gold_yngping": "tieng21 lo21 ie53",
+      "char_len": 3,
+      "pred_yngping": "tian5 lau33 yue242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "扁肉店",
+      "gold_yngping": "bieng21 nyk53 daing213",
+      "char_len": 3,
+      "pred_yngping": "pian213 nyo242 tian55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "線頭",
+      "gold_yngping": "siang55 nau53",
+      "char_len": 2,
+      "pred_yngping": "sian5 tou213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "椅懸頂",
+      "gold_yngping": "ie33 ge33 leing33",
+      "char_len": 3,
+      "pred_yngping": "i33 xian55 ding55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "霾霾雨",
+      "gold_yngping": "mui21 mui53 y33",
+      "char_len": 3,
+      "pred_yngping": "mai5 mai5 yu33",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "單耳爿",
+      "gold_yngping": "dang21 ngi21 being53",
+      "char_len": 3,
+      "pred_yngping": "tsan53 er21 pan55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "匯",
+      "gold_yngping": "hui242",
+      "char_len": 1,
+      "pred_yngping": "hui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "娘奶囝",
+      "gold_yngping": "noung21 ne24 iang33",
+      "char_len": 3,
+      "pred_yngping": "nja55 nei242 gian242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "騊",
+      "gold_yngping": "do53",
+      "char_len": 1,
+      "pred_yngping": "tau242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "陸地行舟",
+      "gold_yngping": "lyk21 di21 heing55 njiu55",
+      "char_len": 4,
+      "pred_yngping": "lu55 di55 hing13 zau242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "牙頭關",
+      "gold_yngping": "nga33 lau33 uang55",
+      "char_len": 3,
+      "pred_yngping": "ya24 tou21 guan55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "比",
+      "gold_yngping": "bei242",
+      "char_len": 1,
+      "pred_yngping": "pi242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "驢公",
+      "gold_yngping": "leo33 geoyng33",
+      "char_len": 2,
+      "pred_yngping": "lu21 gong242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "㖹火筒",
+      "gold_yngping": "bung21 hui21 deoyng53",
+      "char_len": 3,
+      "pred_yngping": "hong55 huo242 tung55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "五言雜字",
+      "gold_yngping": "ngu21 ngyong53 zak21 zei242",
+      "char_len": 4,
+      "pred_yngping": "wu5 yan5 za5 zi5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "㛎",
+      "gold_yngping": "ly33",
+      "char_len": 1,
+      "pred_yngping": "nui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "拜斗",
+      "gold_yngping": "buai53 lau33",
+      "char_len": 2,
+      "pred_yngping": "bai5 dou33",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "諉",
+      "gold_yngping": "ui33",
+      "char_len": 1,
+      "pred_yngping": "tuo55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "霣",
+      "gold_yngping": "ung33",
+      "char_len": 1,
+      "pred_yngping": "xian55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "龍船頭",
+      "gold_yngping": "lung55 nung55 tau53",
+      "char_len": 3,
+      "pred_yngping": "lung55 chyuen242 tao213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "池",
+      "gold_yngping": "die53",
+      "char_len": 1,
+      "pred_yngping": "ti213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "加*三*",
+      "gold_yngping": "ga55 sang55",
+      "char_len": 4,
+      "pred_yngping": "gaa13 saan55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "拍逿卯",
+      "gold_yngping": "pah21 loung53 mau33",
+      "char_len": 3,
+      "pred_yngping": "pai213 dian242 mao33",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "辦貨",
+      "gold_yngping": "being53 huo213",
+      "char_len": 2,
+      "pred_yngping": "ban53 huo213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 1,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "餾",
+      "gold_yngping": "liu242",
+      "char_len": 1,
+      "pred_yngping": "tian55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "白鰳魚",
+      "gold_yngping": "bah21 lik55 ngy53",
+      "char_len": 3,
+      "pred_yngping": "ba5 lai213 yu55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "介*看",
+      "gold_yngping": "gai53 kang213",
+      "char_len": 3,
+      "pred_yngping": "gie55 khan242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "負信",
+      "gold_yngping": "hu53 seing213",
+      "char_len": 2,
+      "pred_yngping": "fu55 xin213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "倅*",
+      "gold_yngping": "zooh24",
+      "char_len": 2,
+      "pred_yngping": "nguai242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "月",
+      "gold_yngping": "nguok5",
+      "char_len": 1,
+      "pred_yngping": "yut55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "搭搭好",
+      "gold_yngping": "dak21 dak24 ho33",
+      "char_len": 3,
+      "pred_yngping": "da24 da24 hao55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "烏棗",
+      "gold_yngping": "u53 jo33",
+      "char_len": 2,
+      "pred_yngping": "u55 zao242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "盡快",
+      "gold_yngping": "zing53 ka213",
+      "char_len": 2,
+      "pred_yngping": "jin53 kui213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "㩡",
+      "gold_yngping": "leoy33",
+      "char_len": 1,
+      "pred_yngping": "nguai242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "七言八語",
+      "gold_yngping": "cik21 ngyong53 beik24 ngy33",
+      "char_len": 4,
+      "pred_yngping": "qi21 yan55 ba21 yu242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "鷒",
+      "gold_yngping": "tuang53",
+      "char_len": 1,
+      "pred_yngping": "tui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "⼙",
+      "gold_yngping": "ngaing242 ngei242",
+      "char_len": 1,
+      "pred_yngping": "tou55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "揄",
+      "gold_yngping": "y53",
+      "char_len": 1,
+      "pred_yngping": "yue55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "外九彩巷",
+      "gold_yngping": "ngie21 gau21 jai55 ooyng213",
+      "char_len": 4,
+      "pred_yngping": "wai5 jiu33 cai213 xiang213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "徼",
+      "gold_yngping": "iu55",
+      "char_len": 1,
+      "pred_yngping": "jiao55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "蟯",
+      "gold_yngping": "nau53",
+      "char_len": 1,
+      "pred_yngping": "xu55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "棕薦",
+      "gold_yngping": "zeoyng53 njaing213",
+      "char_len": 2,
+      "pred_yngping": "zong55 jian242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "厚熏筒母",
+      "gold_yngping": "gau21 oung21 neoyng33 mo33",
+      "char_len": 4,
+      "pred_yngping": "hou213 hoon13 tung13 moh242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "硩桶囝",
+      "gold_yngping": "dah21 leoyng24 ngiang33",
+      "char_len": 3,
+      "pred_yngping": "siau55 tung55 gua55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "骹掏*踢",
+      "gold_yngping": "ka55 do53 teik24",
+      "char_len": 4,
+      "pred_yngping": "fu55 tao242 ti213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "頌睏衫",
+      "gold_yngping": "syng21 ngoung55 nang55",
+      "char_len": 3,
+      "pred_yngping": "song55 houn55 san55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "幾下",
+      "gold_yngping": "gui55 a242",
+      "char_len": 2,
+      "pred_yngping": "ki55 ha242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "硾",
+      "gold_yngping": "tui242",
+      "char_len": 1,
+      "pred_yngping": "siao55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "咬儥振動",
+      "gold_yngping": "ga242 me21 ding53 nooyng242",
+      "char_len": 4,
+      "pred_yngping": "yau242 yu55 zhen213 dun55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "抄",
+      "gold_yngping": "cau55",
+      "char_len": 1,
+      "pred_yngping": "chao242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "起疾",
+      "gold_yngping": "ki21 zik5",
+      "char_len": 2,
+      "pred_yngping": "qi33 ji242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "⿱穴占厝",
+      "gold_yngping": "ding53 cuo213",
+      "char_len": 4,
+      "pred_yngping": "xue55 zhan55 cuo55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "舴",
+      "gold_yngping": "za213",
+      "char_len": 1,
+      "pred_yngping": "zha55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "地頭神",
+      "gold_yngping": "di55 lau55 sing53",
+      "char_len": 3,
+      "pred_yngping": "ti55 tou55 shin55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "教師椅",
+      "gold_yngping": "gau21 ly53 ie33",
+      "char_len": 3,
+      "pred_yngping": "jiao13 shi13 yi213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "穿手",
+      "gold_yngping": "cuong53 njiu33",
+      "char_len": 2,
+      "pred_yngping": "chuan213 shou242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "石頭",
+      "gold_yngping": "suoh55 lau53",
+      "char_len": 2,
+      "pred_yngping": "shi13 tou55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "尾了",
+      "gold_yngping": "mui33 lau33",
+      "char_len": 2,
+      "pred_yngping": "wei33 liao55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "店頭面",
+      "gold_yngping": "deing21 tau21 meing213",
+      "char_len": 3,
+      "pred_yngping": "dian5 tou213 mian55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "殘牛殘馬",
+      "gold_yngping": "cang21 ngu21 cang33 ma33",
+      "char_len": 4,
+      "pred_yngping": "can242 ngu33 can242 ma55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "絮絮叫",
+      "gold_yngping": "sy21 sy53 giu213",
+      "char_len": 3,
+      "pred_yngping": "sue55 sue55 jiu213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "毛管鬆去",
+      "gold_yngping": "mo33 uong33 seoyng55 ngo0",
+      "char_len": 4,
+      "pred_yngping": "mau55 guan55 song55 qu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "桶",
+      "gold_yngping": "teoyng33",
+      "char_len": 1,
+      "pred_yngping": "tung55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "意思",
+      "gold_yngping": "i53 leoy213",
+      "char_len": 2,
+      "pred_yngping": "yi53 si55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "抽包",
+      "gold_yngping": "tiu55 wau55",
+      "char_len": 2,
+      "pred_yngping": "chou242 pao213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "流*花桶",
+      "gold_yngping": "liu21 ua53 leoyng33",
+      "char_len": 4,
+      "pred_yngping": "liu21 hua55 tung55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "無起稿",
+      "gold_yngping": "mo21 ki24 go33",
+      "char_len": 3,
+      "pred_yngping": "wu55 qi33 gau242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "豬哥",
+      "gold_yngping": "dy55 o55",
+      "char_len": 2,
+      "pred_yngping": "chou242 go242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "瓜肉",
+      "gold_yngping": "gua55 nyk5",
+      "char_len": 2,
+      "pred_yngping": "gua5 rou213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蒻𠺮噻",
+      "gold_yngping": "yok21 si55 sai53",
+      "char_len": 3,
+      "pred_yngping": "xu55 shi55 ti55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "石頭母",
+      "gold_yngping": "suoh33 lau33 mo33",
+      "char_len": 3,
+      "pred_yngping": "shi5 tou213 mou55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "遲",
+      "gold_yngping": "di53",
+      "char_len": 1,
+      "pred_yngping": "che242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "菜肉餅",
+      "gold_yngping": "cai21 nyk55 biang33",
+      "char_len": 3,
+      "pred_yngping": "cai213 niu55 ping55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "賴𡅏",
+      "gold_yngping": "lai242 le0",
+      "char_len": 2,
+      "pred_yngping": "lai55 lai55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "現拍現傷",
+      "gold_yngping": "hieng21 mah21 ieng55 nuong55",
+      "char_len": 4,
+      "pred_yngping": "hien55 pah55 hien55 shong55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "老其",
+      "gold_yngping": "lau242 i0",
+      "char_len": 2,
+      "pred_yngping": "lao53 qi213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "⿰魚田卵",
+      "gold_yngping": "tieng21 looung242",
+      "char_len": 4,
+      "pred_yngping": "yu213 tian55 nuan242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鑿",
+      "gold_yngping": "zoh5",
+      "char_len": 1,
+      "pred_yngping": "zuo242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "有名儂",
+      "gold_yngping": "u55 miang53 neoyng53",
+      "char_len": 3,
+      "pred_yngping": "you55 ming55 nong242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "惡形",
+      "gold_yngping": "ouk21 hing53",
+      "char_len": 2,
+      "pred_yngping": "ok55 hing213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "門頭口",
+      "gold_yngping": "muong33 nau33 kau33",
+      "char_len": 3,
+      "pred_yngping": "men5 tou213 kou55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "下方",
+      "gold_yngping": "a55 uong55",
+      "char_len": 2,
+      "pred_yngping": "xia53 fang213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "犁剪",
+      "gold_yngping": "le33 jeing33",
+      "char_len": 2,
+      "pred_yngping": "li213 jian242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "烰魚",
+      "gold_yngping": "pu55 ngy53",
+      "char_len": 2,
+      "pred_yngping": "yan53 yu213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "九彩巷",
+      "gold_yngping": "gau21 jai55 ooyng213",
+      "char_len": 3,
+      "pred_yngping": "jiu33 cai213 xiang213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "鞔擘",
+      "gold_yngping": "mang53 mah24",
+      "char_len": 2,
+      "pred_yngping": "kau213 puk242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "拍死了",
+      "gold_yngping": "pah24 si33 lau33",
+      "char_len": 3,
+      "pred_yngping": "pai213 si242 le55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "量看",
+      "gold_yngping": "luong53 ngang213",
+      "char_len": 2,
+      "pred_yngping": "liang53 khan242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "細姑兄嫂",
+      "gold_yngping": "se55 u55 hiang53 no33",
+      "char_len": 4,
+      "pred_yngping": "sai55 gu24 xiong55 siao55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "岨",
+      "gold_yngping": "zu53",
+      "char_len": 1,
+      "pred_yngping": "kho55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "掩大目",
+      "gold_yngping": "ieng21 dai55 meoyk5",
+      "char_len": 3,
+      "pred_yngping": "yan24 da5 mu213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "媽孫兩隻",
+      "gold_yngping": "ma21 loung55 lang53 jieh24",
+      "char_len": 4,
+      "pred_yngping": "ma5 sun55 liang55 zhi242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "偷食婆",
+      "gold_yngping": "tau21 sieh5 bo53",
+      "char_len": 3,
+      "pred_yngping": "tou242 si213 po242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "哀求苦告",
+      "gold_yngping": "ai55 giu53 ku55 oo213",
+      "char_len": 4,
+      "pred_yngping": "ai242 qiu55 gu33 gao213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "應該當",
+      "gold_yngping": "ing21 ngai55 loung55",
+      "char_len": 3,
+      "pred_yngping": "ing55 gai55 tang55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "搦牙齒蟲",
+      "gold_yngping": "nieh21 ngai21 teoyng53",
+      "char_len": 4,
+      "pred_yngping": "nao213 ya213 chi213 chung242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "水雞",
+      "gold_yngping": "zui21 ie55",
+      "char_len": 2,
+      "pred_yngping": "sui53 gei242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "針灸",
+      "gold_yngping": "zeing53 giu33",
+      "char_len": 2,
+      "pred_yngping": "zin242 chiu242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "剜",
+      "gold_yngping": "uang33",
+      "char_len": 1,
+      "pred_yngping": "wan242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "總*款",
+      "gold_yngping": "zung24 nguang33",
+      "char_len": 3,
+      "pred_yngping": "zong55 tuan213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "僛*老*",
+      "gold_yngping": "ki53 lo33",
+      "char_len": 4,
+      "pred_yngping": "cu213 lau55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蔣*蔣*",
+      "gold_yngping": "zuong21 {njuong}",
+      "char_len": 4,
+      "pred_yngping": "jong55 jong55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "親家嬸",
+      "gold_yngping": "cing21 nga53 ling33",
+      "char_len": 3,
+      "pred_yngping": "qin13 jia1 cun242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "日頭花",
+      "gold_yngping": "nik5 tau55 hua55",
+      "char_len": 3,
+      "pred_yngping": "ri5 tou21 hua55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 1,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "親家母",
+      "gold_yngping": "cing21 nga53 mu33",
+      "char_len": 3,
+      "pred_yngping": "qin13 jia1 cai213 mou55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "雨毛西",
+      "gold_yngping": "y21 mo55 le55",
+      "char_len": 3,
+      "pred_yngping": "yu33 mao242 si55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "馗",
+      "gold_yngping": "gi53",
+      "char_len": 1,
+      "pred_yngping": "tui55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "邊邊角角",
+      "gold_yngping": "bieng55 bieng55 geoyk21 gooyk24",
+      "char_len": 4,
+      "pred_yngping": "pian55 pian55 gok33 gok33",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "二八天",
+      "gold_yngping": "ni21 beik21 tieng55",
+      "char_len": 3,
+      "pred_yngping": "er5 ba5 tian55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "岑",
+      "gold_yngping": "nging53",
+      "char_len": 1,
+      "pred_yngping": "cen242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "下日",
+      "gold_yngping": "a55 nik5",
+      "char_len": 2,
+      "pred_yngping": "xia5 ri55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "臧",
+      "gold_yngping": "zoung55",
+      "char_len": 1,
+      "pred_yngping": "zang242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "人家齋",
+      "gold_yngping": "ing21 nga55 je55",
+      "char_len": 3,
+      "pred_yngping": "ren13 jia13 zai242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "嬸婆",
+      "gold_yngping": "sing21 bo53",
+      "char_len": 2,
+      "pred_yngping": "po242 po55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "半路修行",
+      "gold_yngping": "buang21 duo21 siu55 heing53",
+      "char_len": 4,
+      "pred_yngping": "ban5 lu55 xiu13 xing13",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "花哩雞",
+      "gold_yngping": "hua55 li55 ie55",
+      "char_len": 3,
+      "pred_yngping": "fa53 li213 kei242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "阿蛦母",
+      "gold_yngping": "a53 i33 mo33",
+      "char_len": 3,
+      "pred_yngping": "a55 a55 m55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蓋一",
+      "gold_yngping": "gai53 eik24",
+      "char_len": 2,
+      "pred_yngping": "kai53 yi55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "長孫",
+      "gold_yngping": "duong21 noung55",
+      "char_len": 2,
+      "pred_yngping": "chang53 sun242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "掌鞋師父",
+      "gold_yngping": "zuong21 e53 sa53 au242",
+      "char_len": 4,
+      "pred_yngping": "zhang213 xia13 shi13 fu13",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "搧紙片",
+      "gold_yngping": "iak21 zai55 wieng213",
+      "char_len": 3,
+      "pred_yngping": "tsun55 chi33 pian55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "食菜",
+      "gold_yngping": "sieh21 cai213",
+      "char_len": 2,
+      "pred_yngping": "si5 cai213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 1,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "作疾",
+      "gold_yngping": "zouk21 zik5",
+      "char_len": 2,
+      "pred_yngping": "zok55 ji213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蠶豆花",
+      "gold_yngping": "cieng21 nau55 ua55",
+      "char_len": 3,
+      "pred_yngping": "can242 dou213 hua55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "割六月早",
+      "gold_yngping": "gak21 leoyk21 nguok5 za33",
+      "char_len": 4,
+      "pred_yngping": "ko242 liu55 yue55 zao55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "不*律*",
+      "gold_yngping": "buk55 luk5",
+      "char_len": 4,
+      "pred_yngping": "bu55 lü213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "甜包",
+      "gold_yngping": "dieng55 bau55",
+      "char_len": 2,
+      "pred_yngping": "tian55 bao213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀隻儂",
+      "gold_yngping": "soh21 ieh24 neoyng53",
+      "char_len": 3,
+      "pred_yngping": "shu53 zhi213 nong55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀個月日",
+      "gold_yngping": "soh21 a21 nguok33 nik5",
+      "char_len": 4,
+      "pred_yngping": "shu55 ge55 yue55 ri55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "無搦",
+      "gold_yngping": "mo33 nieh5",
+      "char_len": 2,
+      "pred_yngping": "wu55 nuo242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鯦",
+      "gold_yngping": "kiu242",
+      "char_len": 1,
+      "pred_yngping": "tsau213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "牧",
+      "gold_yngping": "muk5",
+      "char_len": 1,
+      "pred_yngping": "mu33",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "無使",
+      "gold_yngping": "mo33 sai33",
+      "char_len": 2,
+      "pred_yngping": "wu55 si242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "有能耐",
+      "gold_yngping": "u21 nieng55 ngai53",
+      "char_len": 3,
+      "pred_yngping": "you53 neng242 nei213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "臭伍*蒂",
+      "gold_yngping": "cau213 ngu55 dei213",
+      "char_len": 4,
+      "pred_yngping": "chou55 wu55 ti213",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "剃頭囝",
+      "gold_yngping": "tie53 lau33 iang33",
+      "char_len": 3,
+      "pred_yngping": "tai21 tou242 kai242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "五帝儥搦",
+      "gold_yngping": "ngu55 la213 me55 nieh5",
+      "char_len": 4,
+      "pred_yngping": "wu5 di5 ngu53 nyo242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "摒糞掃",
+      "gold_yngping": "biang21 bung53 noo213",
+      "char_len": 3,
+      "pred_yngping": "bin55 fen55 sau55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "這仂嫩",
+      "gold_yngping": "zi21 nik55 nooung242",
+      "char_len": 3,
+      "pred_yngping": "zat55 lo55 nen55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "伲囝哥囝",
+      "gold_yngping": "nie21 giang21 go53 giang33",
+      "char_len": 4,
+      "pred_yngping": "ni33 gian55 gwa55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "賣膏藥其",
+      "gold_yngping": "me21 go55 yoh5 i0",
+      "char_len": 4,
+      "pred_yngping": "ma5 gong242 yu213 qi55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "拍死去了",
+      "gold_yngping": "pah24 si33 o0 lau0",
+      "char_len": 4,
+      "pred_yngping": "pai213 si242 qiu213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "屏",
+      "gold_yngping": "being213",
+      "char_len": 1,
+      "pred_yngping": "ping55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "強頭強腦",
+      "gold_yngping": "gyong21 nau21 yong33 no33",
+      "char_len": 4,
+      "pred_yngping": "qiong242 tou213 qiong242 nao213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "孝滿",
+      "gold_yngping": "ha213 muang33",
+      "char_len": 2,
+      "pred_yngping": "hio242 man55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "女家",
+      "gold_yngping": "ny21 a55",
+      "char_len": 2,
+      "pred_yngping": "nue5 jia13",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "安裝",
+      "gold_yngping": "ang55 njoung55",
+      "char_len": 2,
+      "pred_yngping": "an13 zhuang213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "棓",
+      "gold_yngping": "bui55",
+      "char_len": 1,
+      "pred_yngping": "lau213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "穿穿轉",
+      "gold_yngping": "cuong21 cuong53 duong33",
+      "char_len": 3,
+      "pred_yngping": "chuan213 chuan213 zhuan242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "鹹凋*去",
+      "gold_yngping": "geing53 deu55 o0",
+      "char_len": 4,
+      "pred_yngping": "xian53 diao213 qù5",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "蟬",
+      "gold_yngping": "sieng53",
+      "char_len": 1,
+      "pred_yngping": "chun213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "丈",
+      "gold_yngping": "duong242",
+      "char_len": 1,
+      "pred_yngping": "zhang242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "冥衣錢紙",
+      "gold_yngping": "ming55 i55 jieng33 njai33",
+      "char_len": 4,
+      "pred_yngping": "ming55 yi55 qian1 cih55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 1,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "現世現報",
+      "gold_yngping": "hieng21 nie21 hieng53 moo213",
+      "char_len": 4,
+      "pred_yngping": "hien55 siet55 hien55 po55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "四方八面",
+      "gold_yngping": "si55 huong55 beik5 mieng242",
+      "char_len": 4,
+      "pred_yngping": "si5 fang13 pa5 mien242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "勇敢",
+      "gold_yngping": "yng24 gang33",
+      "char_len": 2,
+      "pred_yngping": "yong242 gan213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "告朔",
+      "gold_yngping": "guk55 soouk24",
+      "char_len": 2,
+      "pred_yngping": "kou53 shuo55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "餅囝",
+      "gold_yngping": "biang24 ngiang33",
+      "char_len": 2,
+      "pred_yngping": "pi55 gua55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "廈門航空",
+      "gold_yngping": "a55 muong53 houng55 kung55",
+      "char_len": 4,
+      "pred_yngping": "sia55 men55 hong55 kong55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 3,
+      "word_exact": 0
+    },
+    {
+      "text": "飋",
+      "gold_yngping": "saik24",
+      "char_len": 1,
+      "pred_yngping": "chu213",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "漚",
+      "gold_yngping": "eu55",
+      "char_len": 1,
+      "pred_yngping": "fu55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "熱燥",
+      "gold_yngping": "iek21 soo213",
+      "char_len": 2,
+      "pred_yngping": "re53 cao213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "三落透後",
+      "gold_yngping": "sang21 loh21 lau53 au242",
+      "char_len": 4,
+      "pred_yngping": "san5 luo21 tou33 hou5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "笈",
+      "gold_yngping": "kik5",
+      "char_len": 1,
+      "pred_yngping": "ji242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "看病先生",
+      "gold_yngping": "kang21 mang21 ning55 nang55",
+      "char_len": 4,
+      "pred_yngping": "kan53 bing55 xian13 sheng13",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "輪鞋",
+      "gold_yngping": "lung33 e53",
+      "char_len": 2,
+      "pred_yngping": "lun55 xie213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "糊",
+      "gold_yngping": "gu53",
+      "char_len": 1,
+      "pred_yngping": "hu242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蚶*櫥",
+      "gold_yngping": "hang55 niu53",
+      "char_len": 3,
+      "pred_yngping": "kan55 kuh55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "朝南坐北",
+      "gold_yngping": "diu33 nang53 seoy53 booyk24",
+      "char_len": 4,
+      "pred_yngping": "chao21 nan242 zuo213 bei213",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "慷",
+      "gold_yngping": "koung55",
+      "char_len": 1,
+      "pred_yngping": "kong242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "野軟",
+      "gold_yngping": "ia24 nuong33",
+      "char_len": 2,
+      "pred_yngping": "ye33 nuan242",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "桌頭",
+      "gold_yngping": "doh55 tau53",
+      "char_len": 2,
+      "pred_yngping": "zou21 tou55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "此辰此刻",
+      "gold_yngping": "cy21 ling21 njy55 aik24",
+      "char_len": 4,
+      "pred_yngping": "ci213 cen213 ke213 tu242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "甕囝甕伲",
+      "gold_yngping": "eoyng21 ngiang21 eoyng55 nie53",
+      "char_len": 4,
+      "pred_yngping": "weng55 gua55 weng55 ni33",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "扒頭挖耳",
+      "gold_yngping": "ba21 lau21 uak55 ngei242",
+      "char_len": 4,
+      "pred_yngping": "pa24 tou55 wa213 er55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "番薯錢",
+      "gold_yngping": "huang55 ny55 zieng53",
+      "char_len": 3,
+      "pred_yngping": "pan1 sa1 chien1",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "七月十五",
+      "gold_yngping": "cik21 nguok5 seik21 ngou242",
+      "char_len": 4,
+      "pred_yngping": "qi53 yue55 shi213 wu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "乾貝",
+      "gold_yngping": "gang53 mui213",
+      "char_len": 2,
+      "pred_yngping": "qian55 bei55",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "有食有長",
+      "gold_yngping": "u33 sieh5 u53 duong242",
+      "char_len": 4,
+      "pred_yngping": "you55 shi55 you55 chang55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀工遘暗",
+      "gold_yngping": "soh55 geoyng55 gau53 ang213",
+      "char_len": 4,
+      "pred_yngping": "shu55 gong242 gau213 am24",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "媽孫",
+      "gold_yngping": "ma21 loung55",
+      "char_len": 2,
+      "pred_yngping": "ma5 sun213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "刣儂放火",
+      "gold_yngping": "tai33 neoyng53 bung53 hui33",
+      "char_len": 4,
+      "pred_yngping": "dian55 nong55 fang55 huo55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "日把兩日",
+      "gold_yngping": "nik33 ba33 lang55 nik5",
+      "char_len": 4,
+      "pred_yngping": "ri5 ba21 liang5 ri5",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "犖",
+      "gold_yngping": "lo53",
+      "char_len": 1,
+      "pred_yngping": "nou55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "祇",
+      "gold_yngping": "gi53",
+      "char_len": 1,
+      "pred_yngping": "ci242",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "紅紅",
+      "gold_yngping": "eoyng55 eoyng53",
+      "char_len": 2,
+      "pred_yngping": "hong13 hong13",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "向外斗行",
+      "gold_yngping": "hyong21 ngie33 lau33 giang53",
+      "char_len": 4,
+      "pred_yngping": "siang53 gue242 dou213 hing55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "阧",
+      "gold_yngping": "deu33",
+      "char_len": 1,
+      "pred_yngping": "can55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "覭覭屈屈",
+      "gold_yngping": "ming55 ming55 kuk55 kouk24",
+      "char_len": 4,
+      "pred_yngping": "kiau55 kiau55 kiu55 kiu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 3,
+      "word_exact": 0
+    },
+    {
+      "text": "風時雷雨",
+      "gold_yngping": "hung55 ni53 lai33 y33",
+      "char_len": 4,
+      "pred_yngping": "fong13 si13 lei13 yu55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "墡",
+      "gold_yngping": "sieng242",
+      "char_len": 1,
+      "pred_yngping": "tang55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "三扒兩空",
+      "gold_yngping": "sang55 ma53 lang53 kooyng213",
+      "char_len": 4,
+      "pred_yngping": "san1 pa242 liang5 kong1",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "儸",
+      "gold_yngping": "lo53",
+      "char_len": 1,
+      "pred_yngping": "nang55",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "蜀年半載",
+      "gold_yngping": "soh55 nieng53 buang53 njai33",
+      "char_len": 4,
+      "pred_yngping": "shu55 nian55 ban55 zai55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 1,
+      "word_exact": 0
+    },
+    {
+      "text": "咬*𧏫囝",
+      "gold_yngping": "ga21 lak53 giang33",
+      "char_len": 4,
+      "pred_yngping": "yau242 jin55 guai242",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "柱",
+      "gold_yngping": "tiu242",
+      "char_len": 1,
+      "pred_yngping": "chu33",
+      "n_syl_gold": 1,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "無世*乇",
+      "gold_yngping": "mo21 sie53 nooh24",
+      "char_len": 4,
+      "pred_yngping": "wu55 shi55 xia55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "道山路",
+      "gold_yngping": "doo21 lang53 lou242",
+      "char_len": 3,
+      "pred_yngping": "dao53 shan55 lu55",
+      "n_syl_gold": 3,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "黃螺",
+      "gold_yngping": "uong33 leoy53",
+      "char_len": 2,
+      "pred_yngping": "huang53 luo213",
+      "n_syl_gold": 2,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    },
+    {
+      "text": "會行儥痿",
+      "gold_yngping": "e55 giang53 me55 ouk5",
+      "char_len": 4,
+      "pred_yngping": "hui55 xing213 yu55 wei55",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 2,
+      "word_exact": 0
+    },
+    {
+      "text": "言三語四",
+      "gold_yngping": "ngyong55 sang55 ngy55 sei213",
+      "char_len": 4,
+      "pred_yngping": "yen53 san1 si242",
+      "n_syl_gold": 4,
+      "n_syl_correct": 0,
+      "n_tone_correct": 0,
+      "word_exact": 0
+    }
+  ]
+}

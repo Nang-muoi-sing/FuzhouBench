@@ -1,0 +1,264 @@
+{
+  "version": "v1.0-draft",
+  "generated_at": "2026-05-20T06:55:50.322479+00:00",
+  "project_root": "F:\\projects\\misc\\ai-fuzhounese",
+  "text": {
+    "WordResource.tsv": {
+      "rows": 22890,
+      "published": 22659,
+      "with_phonology_initial": 11261,
+      "with_phonology_final": 11261,
+      "with_phonology_tone": 11261,
+      "with_gloss": 638,
+      "unique_text": 20709
+    },
+    "PronunciationResource.tsv": {
+      "rows": 51505,
+      "is_sandhi_true": 27454,
+      "is_primary_true": 22905,
+      "unique_words_covered": 22883,
+      "source_type_distribution": {
+        "ime": 28908,
+        "feng": 19861,
+        "contrib": 2125,
+        "ljcc": 430,
+        "": 157,
+        "cikling": 16,
+        "li": 8
+      },
+      "variant_top10": {
+        "": 51403,
+        "連江": 34,
+        "市區": 29,
+        "長樂": 10,
+        "市郊": 9,
+        "尚幹": 5,
+        "閩侯": 4,
+        "閩清": 4,
+        "福清": 4,
+        "平潭": 2
+      }
+    },
+    "ExplanationResource.tsv": {
+      "rows": 5160,
+      "unique_words_covered": 4359,
+      "with_example_sentences": 932,
+      "lexical_category_distribution": {
+        "n": 3085,
+        "": 875,
+        "v": 489,
+        "adj": 235,
+        "cl": 198,
+        "num": 116,
+        "adv": 87,
+        "pron": 24,
+        "on": 18,
+        "part": 16,
+        "int": 14,
+        "conj": 2,
+        "prep": 1
+      }
+    },
+    "FengResource.tsv": {
+      "rows": 11276,
+      "unique_words_covered": 11170,
+      "literal_eq_sandhi": 3315,
+      "literal_differs_from_sandhi": 7961,
+      "missing_either_side": 0
+    },
+    "CikLingResource.tsv": {
+      "rows": 11512,
+      "unique_words_covered": 8207,
+      "tone_distribution_top10": {
+        "5": 2358,
+        "1": 2333,
+        "2": 1817,
+        "3": 1523,
+        "4": 1306,
+        "7": 1282,
+        "8": 893
+      },
+      "cik_initial_top10": {
+        "鶯": 1293,
+        "求": 1193,
+        "喜": 1160,
+        "時": 1076,
+        "曾": 1045,
+        "低": 975,
+        "柳": 808,
+        "出": 662,
+        "邊": 613,
+        "氣": 567
+      },
+      "ling_initial_top10": {
+        "亦": 1297,
+        "求": 1190,
+        "風": 1169,
+        "授": 1074,
+        "之": 1042,
+        "聲": 973,
+        "柳": 815,
+        "出": 668,
+        "邊": 616,
+        "悉": 573
+      }
+    },
+    "DFDCharacterResource.tsv": {
+      "rows": 9811,
+      "unique_words_covered": 5357,
+      "with_banguace": 9811
+    },
+    "SupplementWordResource.tsv": {
+      "rows": 27871,
+      "unique_words_covered": 11658,
+      "type_distribution": {
+        "M": 19956,
+        "S": 7304,
+        "A": 520,
+        "N": 91
+      },
+      "glyph_category_top10": {
+        "": 27781,
+        "folk": 57,
+        "other": 26,
+        "original": 7
+      }
+    },
+    "RecordingResource.tsv": {
+      "rows": 10659,
+      "speaker_distribution": {
+        "hy": 7405,
+        "lk": 3254
+      },
+      "unique_md5": 10652,
+      "unique_yngping": 10270
+    },
+    "UserContribResource.tsv": {
+      "rows": 1059,
+      "status_distribution": {
+        "3rvd": 1022,
+        "": 21,
+        "2rjct": 12,
+        "2rvd": 4
+      },
+      "locale_top10": {
+        "": 729,
+        "fzho": 132,
+        "mnhu": 114,
+        "liji": 33,
+        "cgle": 10,
+        "fzho, mnhu": 9,
+        "fuqi": 8,
+        "mqig": 8,
+        "liji, fuqi": 3,
+        "fzho, mqig": 3
+      },
+      "reviewed_track": true
+    },
+    "UserSubmitResource.tsv": {
+      "rows": 121,
+      "status_distribution": {
+        "": 80,
+        "1rvd": 37,
+        "1rjct": 4
+      },
+      "locale_top10": {
+        "": 101,
+        "fzho": 12,
+        "liji": 2,
+        "fzho,cgle": 2,
+        "cgle": 1,
+        "mnhu": 1,
+        "fuqi": 1,
+        "mqig, ygti": 1
+      },
+      "reviewed_track": false
+    }
+  },
+  "coverage": {
+    "n_word_total": 22890,
+    "n_words_with_pronunciation": 22883,
+    "n_words_with_feng_sandhi": 11170,
+    "n_words_with_explanation": 4359,
+    "n_words_with_audio_via_yngping_match": 17180,
+    "pct_words_with_pronunciation": 99.97,
+    "pct_words_with_feng_sandhi": 48.8,
+    "pct_words_with_explanation": 19.04,
+    "pct_words_with_audio": 75.05
+  },
+  "audio": {
+    "source_of_truth": "seedict-data/audio_eda_summary.json (remote H100 EDA)",
+    "remote_eda": {
+      "n_files": 10652,
+      "n_errors": 0,
+      "total_hours": 3.0629969327129,
+      "per_speaker_hours": {
+        "hy": 2.1272340391943816,
+        "lk": 0.9357628935185186
+      },
+      "per_speaker_count": {
+        "hy": 7405,
+        "lk": 3247
+      },
+      "duration_quantiles": {
+        "0.05": 0.87,
+        "0.25": 0.96,
+        "0.5": 1.02,
+        "0.75": 1.0971458333333333,
+        "0.9": 1.17,
+        "0.95": 1.22775,
+        "0.99": 1.42
+      },
+      "samplerate_counts": {
+        "48000": 9129,
+        "44100": 1523
+      },
+      "channels_counts": {
+        "1": 7405,
+        "2": 3247
+      },
+      "tone_top": {
+        "55": 4914,
+        "53": 4047,
+        "21": 3322,
+        "33": 2850,
+        "24": 1517,
+        "242": 1372,
+        "213": 1223,
+        "5": 1052,
+        "0": 134
+      },
+      "initial_top": {
+        "l": 2227,
+        "n": 1803,
+        "m": 1459,
+        "g": 1403,
+        "ng": 1387,
+        "s": 1375,
+        "d": 1250,
+        "z": 1200,
+        "b": 1194,
+        "h": 1066,
+        "c": 1056,
+        "k": 842,
+        "t": 792,
+        "p": 612,
+        "j": 325,
+        "w": 266,
+        "y": 181
+      },
+      "suspicious": {
+        "short_lt_0.3s": 0,
+        "silence_gt_0.9": 0,
+        "rms_lt_0.005": 0,
+        "clipped_peak_ge_0.999": 4
+      }
+    },
+    "local_file_count": 10652,
+    "local_per_speaker": {
+      "hy": 7405,
+      "lk": 3247
+    },
+    "local_vs_remote_count_match": true
+  }
+}
